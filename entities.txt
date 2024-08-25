@@ -1,0 +1,6635 @@
+Q182661	rdfs:label	excavator
+Q40847	rdfs:label	scissors
+Q787354	rdfs:label	welding helmet
+Q119823051	rdfs:label	welding torch
+Q37077	rdfs:label	nail
+Q39546	rdfs:label	tool
+Q58964	rdfs:label	drill
+Q23775577	rdfs:label	black and decker dr211
+Q18670563	rdfs:label	sander
+Q187833	rdfs:label	lathe
+Q183414	rdfs:label	punch card
+Q2713450	rdfs:label	nameplate
+Q9372229	rdfs:label	patent information
+Q101401	rdfs:label	bell
+Q836328	rdfs:label	welder
+Q1333024	rdfs:label	personal protective equipment
+Q72797	rdfs:label	goggles
+Q76299	rdfs:label	light
+Q47616	rdfs:label	light bulb
+Q18341850	rdfs:label	mortar and pestle
+Q870	rdfs:label	train
+Q217416	rdfs:label	loader
+Q15054054	rdfs:label	timber
+Q1141837	rdfs:label	circular saw
+Q173603	rdfs:label	helmet
+Q2058262	rdfs:label	hard hat
+Q1097498	rdfs:label	ruler
+Q98161482	rdfs:label	steel factory
+Q8805	rdfs:label	bit
+Q335283	rdfs:label	drill bit
+Q208040	rdfs:label	chainsaw
+Q852784	rdfs:label	scuba gear
+Q191529	rdfs:label	wallpaper
+Q7338813	rdfs:label	rivet gun
+Q26991405	rdfs:label	electric drill
+Q3681647	rdfs:label	metal lathe
+Q5063668	rdfs:label	ceramic mold
+Q40558	rdfs:label	blacksmith shop
+Q143873	rdfs:label	gear
+Q128602183	rdfs:label	chop saw
+Q20820500	rdfs:label	drill press
+Q623106	rdfs:label	cnc mill
+Q125356	rdfs:label	saw
+Q5428767	rdfs:label	factory floor
+Q13231055	rdfs:label	cnc machine
+Q1081102	rdfs:label	control panel
+Q1931980	rdfs:label	grinding wheel
+Q623106	rdfs:label	vertical milling machine
+Q623106	rdfs:label	horizontal milling machine
+Q116313124	rdfs:label	polishing wheel
+Q23769	rdfs:label	utility knife
+Q11022	rdfs:label	screw
+Q107437313	rdfs:label	machine screw
+Q54806448	rdfs:label	wood screw
+Q70875100	rdfs:label	power saw
+Q1327701	rdfs:label	power tool
+Q1333024	rdfs:label	ppe
+Q104526	rdfs:label	pipe
+Q495451	rdfs:label	crane hook
+Q174320	rdfs:label	oscilloscope
+Q872	rdfs:label	radio
+Q193220	rdfs:label	fan
+Q659495	rdfs:label	spray can
+Q1501161	rdfs:label	toolbox
+Q83405	rdfs:label	mill
+Q623106	rdfs:label	vertical mill
+Q104363	rdfs:label	anvil
+Q1354582	rdfs:label	train hitch
+Q40687	rdfs:label	robot arm
+Q2560552	rdfs:label	workpiece
+Q5693340	rdfs:label	heat torch
+Q774332	rdfs:label	gas cylinder
+Q505213	rdfs:label	sawmill
+Q40089	rdfs:label	brick
+Q7798100	rdfs:label	brick wall
+Q446	rdfs:label	wheel
+Q4421	rdfs:label	wood
+Q38720	rdfs:label	windmill
+Q161071	rdfs:label	screwdriver
+Q831584	rdfs:label	cement mixer
+Q553	rdfs:label	teeth
+Q11009	rdfs:label	nut
+Q1519190	rdfs:label	screwdriver bit
+Q26215525	rdfs:label	continuous miner
+Q14976	rdfs:label	snow plow
+Q2111762	rdfs:label	machine shop
+Q3945253	rdfs:label	claw hammer
+Q125275026	rdfs:label	digital scale
+Q109902987	rdfs:label	ice core drill
+Q764324	rdfs:label	hole saw
+Q6500733	rdfs:label	printing press
+Q7980875	rdfs:label	welding goggles
+Q327055	rdfs:label	worker
+Q1260914	rdfs:label	scuba tank
+Q116441	rdfs:label	scuba mask
+Q21061182	rdfs:label	shear
+Q149757	rdfs:label	tape
+Q19600525	rdfs:label	yubikey
+Q190100	rdfs:label	bearing
+Q25294	rdfs:label	hammer
+Q3475718	rdfs:label	radial arm saw
+Q125536011	rdfs:label	wood shop
+Q11432170	rdfs:label	ball bearing
+Q1351693	rdfs:label	snow blower
+Q196538	rdfs:label	microscope
+Q1879849	rdfs:label	soldering station
+Q101761	rdfs:label	zipper
+Q623402	rdfs:label	soldering iron
+Q12688575	rdfs:label	drilling rig
+Q36794	rdfs:label	door
+Q373255	rdfs:label	miter saw
+Q2578402	rdfs:label	hand tool
+Q731788	rdfs:label	outside caliper
+Q1133232	rdfs:label	hand drill
+Q64619114	rdfs:label	hack saw
+Q5005931	rdfs:label	c clamp
+Q3202271	rdfs:label	mallet
+Q3030569	rdfs:label	safety equipment
+Q124445592	rdfs:label	safety helmet
+Q3346867	rdfs:label	safety glass
+Q267298	rdfs:label	battery
+Q3680646	rdfs:label	grinding
+Q32489	rdfs:label	knife
+Q390383	rdfs:label	pocket knife
+Q390383	rdfs:label	folding knife
+Q13405515	rdfs:label	hearing protection
+Q94357312	rdfs:label	ear muff
+Q456101	rdfs:label	cordless drill
+Q23775252	rdfs:label	makita 5008nb
+Q154411	rdfs:label	wrench
+Q5322	rdfs:label	cap
+Q105731	rdfs:label	lock
+Q15712110	rdfs:label	jigsaw
+Q11866449	rdfs:label	jig saw
+Q10858068	rdfs:label	production line
+Q9268371	rdfs:label	metal casting
+Q1553201	rdfs:label	led light bulb
+Q2246394	rdfs:label	sledge hammer
+Q1709184	rdfs:label	furnace
+Q2374786	rdfs:label	combination lock
+Q623106	rdfs:label	milling machine
+Q113556165	rdfs:label	fork lift
+Q40607	rdfs:label	padlock
+Q7980877	rdfs:label	weld bead
+Q16244138	rdfs:label	black smith
+Q189566	rdfs:label	mortar
+Q259589	rdfs:label	scotch tape
+Q43274	rdfs:label	chuck
+Q19818	rdfs:label	lathe chuck
+Q235356	rdfs:label	carriage
+Q2142216	rdfs:label	tailstock
+Q131677	rdfs:label	dozer
+Q178692	rdfs:label	crane
+Q400406	rdfs:label	awl
+Q129627151	rdfs:label	hydraulic drill
+Q1760958	rdfs:label	cutting tool
+Q11012	rdfs:label	robot
+Q12085795	rdfs:label	drilling jumbo
+Q2365675	rdfs:label	table saw
+Q827274	rdfs:label	angle grinder
+Q131172	rdfs:label	welding
+Q82753	rdfs:label	file
+Q4083797	rdfs:label	gas powered chainsaw
+Q26766662	rdfs:label	respirator mask
+Q474188	rdfs:label	chisel
+Q496098	rdfs:label	foundry
+Q21620084	rdfs:label	steel foundry
+Q83405	rdfs:label	factory
+Q952519	rdfs:label	triangle ruler
+Q1164918	rdfs:label	drawing table
+Q107538	rdfs:label	baco
+Q215293	rdfs:label	volvo
+Q3475714	rdfs:label	cold saw
+Q2166744	rdfs:label	fixture
+Q122421487	rdfs:label	air nozzle
+Q5428384	rdfs:label	face shield
+Q93301	rdfs:label	locomotive
+Q911679	rdfs:label	spark
+Q110515033	rdfs:label	metal rod
+Q200266	rdfs:label	handle
+Q551904	rdfs:label	lightbulb
+Q102261889	rdfs:label	tig welder
+Q1046315	rdfs:label	level
+Q1049792	rdfs:label	rolling mill
+Q132041	rdfs:label	key
+Q117207771	rdfs:label	descaler
+Q116971322	rdfs:label	welding gun
+Q39495	rdfs:label	tractor
+Q1621575	rdfs:label	wood chipper
+Q41577	rdfs:label	forklift
+Q1623285	rdfs:label	yard
+Q11472	rdfs:label	paper
+Q126200818	rdfs:label	paper roll
+Q5656656	rdfs:label	hardy tool
+Q833823	rdfs:label	beaker
+Q7582213	rdfs:label	squeeze bottle
+Q207490	rdfs:label	erlenmeyer flask
+Q898244	rdfs:label	volumetric flask
+Q4117715	rdfs:label	volumetric pipette
+Q19767	rdfs:label	steam hammer
+Q129260716	rdfs:label	forge hammer
+Q245934	rdfs:label	wire cutter
+Q11442	rdfs:label	bicycle
+Q169545	rdfs:label	tire
+Q3276479	rdfs:label	tongs
+Q1366621	rdfs:label	extruder
+Q4508598	rdfs:label	human machine interface
+Q1756282	rdfs:label	injection molding machine
+Q1023915	rdfs:label	cnc lathe
+Q4243098	rdfs:label	hook
+Q82799	rdfs:label	label
+Q1799415	rdfs:label	housing construction
+Q8194616	rdfs:label	end mill
+Q235783	rdfs:label	flashlight
+Q327954	rdfs:label	torch
+Q1277336	rdfs:label	ratchet strap
+Q128561205	rdfs:label	flat head screw
+Q4993268	rdfs:label	ignition switch
+Q190667	rdfs:label	slide rule
+Q7338838	rdfs:label	riveting machine
+Q1256552	rdfs:label	torque screwdriver
+Q505213	rdfs:label	saw mill
+Q12408	rdfs:label	caliper
+Q3373767	rdfs:label	set screw
+Q23914014	rdfs:label	handtool
+Q212792	rdfs:label	bolt
+Q1195804	rdfs:label	hacksaw
+Q20820214	rdfs:label	printing block
+Q32489	rdfs:label	knife blade
+Q2750929	rdfs:label	hand saw
+Q39397	rdfs:label	axe
+Q953477	rdfs:label	engine block
+Q683835	rdfs:label	headstock
+Q11019	rdfs:label	machine
+Q189155	rdfs:label	archimedes screw
+Q1936800	rdfs:label	welding machine
+Q31029	rdfs:label	rope
+Q26972858	rdfs:label	drafting tool
+Q360418	rdfs:label	construction site
+Q245934	rdfs:label	diagonal cutter
+Q3512781	rdfs:label	rotary table
+Q1554469	rdfs:label	rubber mallet
+Q488855	rdfs:label	keyhole
+Q2252300	rdfs:label	work glove
+Q79501070	rdfs:label	screw driver
+Q1081004	rdfs:label	rail fastening system
+Q15977971	rdfs:label	wood worker
+Q1391831	rdfs:label	thread
+Q62088999	rdfs:label	knob
+Q99385805	rdfs:label	riveting hammer
+Q1413824	rdfs:label	glass blower
+Q83620449	rdfs:label	archimedean screw
+Q189155	rdfs:label	water screw
+Q37522310	rdfs:label	plier
+Q126920050	rdfs:label	flat nose plier
+Q245934	rdfs:label	side cutter
+Q22667	rdfs:label	railway
+Q1340688	rdfs:label	gage block
+Q1340688	rdfs:label	gauge block
+Q19902200	rdfs:label	dial
+Q2750929	rdfs:label	handsaw
+Q26726	rdfs:label	pot
+Q110705646	rdfs:label	electric screwdriver
+Q5	rdfs:label	person
+Q953631	rdfs:label	earmuff
+Q26666059	rdfs:label	cider press
+Q43744205	rdfs:label	welding spark
+Q1445068	rdfs:label	blow torch
+Q17009342	rdfs:label	human lift
+Q70802185	rdfs:label	wood saw
+Q47616	rdfs:label	incandescent light bulb
+Q129211	rdfs:label	cage
+Q22667	rdfs:label	railroad
+Q109061	rdfs:label	guide
+Q213643	rdfs:label	silo
+Q1411242	rdfs:label	vice
+Q815240	rdfs:label	hanger
+Q72797	rdfs:label	safety goggles
+Q863835	rdfs:label	reamer
+Q116971275	rdfs:label	band saw
+Q245761	rdfs:label	grinder
+Q208103	rdfs:label	bellow
+Q17084518	rdfs:label	coping saw
+Q116073019	rdfs:label	sand paper
+Q334471	rdfs:label	clamp
+Q4235625	rdfs:label	railroad spike
+Q17093294	rdfs:label	key blank
+Q273831	rdfs:label	apron
+Q49743	rdfs:label	vise
+Q689934	rdfs:label	die press
+Q1520790	rdfs:label	spool
+Q134560	rdfs:label	belt
+Q7209259	rdfs:label	pole lathe
+Q4868296	rdfs:label	lettertype
+Q1402035	rdfs:label	back saw
+Q633423	rdfs:label	train rail
+Q5159079	rdfs:label	concrete saw
+Q124816652	rdfs:label	laser cutter
+Q124800723	rdfs:label	laser engraver
+Q38867	rdfs:label	laser
+Q4822016	rdfs:label	combination square
+Q674484	rdfs:label	hydraulic press
+Q128560689	rdfs:label	phillips head screw
+Q588395	rdfs:label	carabiner
+Q117208400	rdfs:label	shipping box
+Q46710505	rdfs:label	oxyacetylene torch
+Q16251414	rdfs:label	cnc router
+Q5013096	rdfs:label	cnc wood router
+Q11301405	rdfs:label	cable cutter
+Q1929477	rdfs:label	plug
+Q189996	rdfs:label	multimeter
+Q160342	rdfs:label	railroad track
+Q177784	rdfs:label	hydraulics
+Q683363	rdfs:label	cutter
+Q193811	rdfs:label	pencil sharpener
+Q77000951	rdfs:label	cutting wheel
+Q126586304	rdfs:label	abrasive disc
+Q39101613	rdfs:label	power drill
+Q168639	rdfs:label	ladder
+Q1435328	rdfs:label	binder clip
+Q59629885	rdfs:label	oil seal
+Q16953	rdfs:label	allen wrench
+Q7202204	rdfs:label	plate bending machine
+Q1231985	rdfs:label	foot pedal
+Q126387183	rdfs:label	milling tool
+Q5	rdfs:label	people
+Q5463013	rdfs:label	flux
+Q677	rdfs:label	iron
+Q273081	rdfs:label	clipper
+Q1042266	rdfs:label	nail file
+Q114815022	rdfs:label	confocal microscope
+Q2282074	rdfs:label	reciprocating saw
+Q1193236	rdfs:label	press
+Q51338	rdfs:label	keychain
+Q13743633	rdfs:label	computer port
+Q394226	rdfs:label	headphone jack
+Q58050793	rdfs:label	usb port
+Q126325589	rdfs:label	power button
+Q12529	rdfs:label	worm gear
+Q505213	rdfs:label	lumber mill
+Q7428485	rdfs:label	sawstop
+Q26156693	rdfs:label	vice grip
+Q3045515	rdfs:label	industrial machine
+Q1573728	rdfs:label	textile equipment
+Q119520598	rdfs:label	fabric processing
+Q1505660	rdfs:label	textile manufacturing
+Q148958	rdfs:label	clip
+Q174053	rdfs:label	relay
+Q1535657	rdfs:label	ball peen hammer
+Q773442	rdfs:label	plasma torch
+Q781139	rdfs:label	ball mill
+Q123318722	rdfs:label	circular saw blade
+Q129538739	rdfs:label	steel ladle
+Q685727	rdfs:label	black and white image
+Q774332	rdfs:label	gas canister
+Q861259	rdfs:label	support
+Q2644088	rdfs:label	gear train
+Q174565	rdfs:label	bracket
+Q1253857	rdfs:label	bolt cutter
+Q3446739	rdfs:label	power hammer
+Q18088363	rdfs:label	scissor lift
+Q183413	rdfs:label	hole punch
+Q929470	rdfs:label	planer
+Q12527148	rdfs:label	grinding tool
+Q122949879	rdfs:label	resistance welder
+Q208040	rdfs:label	chain saw
+Q116961606	rdfs:label	hardhat
+Q125856511	rdfs:label	cleaning machine
+Q92766688	rdfs:label	pipe cleaning
+Q281867	rdfs:label	tube cleaning
+Q129701327	rdfs:label	pipe maintenance
+Q235544	rdfs:label	flame
+Q49007	rdfs:label	yarn
+Q14976	rdfs:label	snowplow
+Q150425	rdfs:label	rebar
+Q127361558	rdfs:label	steel rebar
+Q59639674	rdfs:label	compact fluorescent light bulb
+Q1047037	rdfs:label	screw pump
+Q752392	rdfs:label	railcar
+Q208502	rdfs:label	train car
+Q1414135	rdfs:label	rolling stock
+Q124441	rdfs:label	washing machine
+Q27688955	rdfs:label	thread insert
+Q765735	rdfs:label	keyhole saw
+Q2002016	rdfs:label	fastener
+Q1064858	rdfs:label	desk
+Q14748	rdfs:label	table
+Q347690	rdfs:label	work station
+Q80228	rdfs:label	bottle
+Q66671741	rdfs:label	hearing protector
+Q1138737	rdfs:label	lamp
+Q36641511	rdfs:label	desk lamp
+Q1133705	rdfs:label	filament
+Q551997	rdfs:label	wire
+Q192043	rdfs:label	wiring
+Q203443	rdfs:label	gravestone
+Q1253445	rdfs:label	jointer
+Q157927	rdfs:label	weld
+Q4413188	rdfs:label	bungee cord
+Q12337	rdfs:label	corkscrew
+Q2036130	rdfs:label	stump cutter
+Q911814	rdfs:label	rotary printing press
+Q1370714	rdfs:label	lumber
+Q7370281	rdfs:label	rotary tool
+Q124453247	rdfs:label	control box
+Q586319	rdfs:label	ice pick
+Q1585781	rdfs:label	needle nose plier
+Q1030313	rdfs:label	duct tape
+Q12820205	rdfs:label	printing machine
+Q2564323	rdfs:label	bench grinder
+Q107211130	rdfs:label	scithe
+Q694547	rdfs:label	traffic cone
+Q1936800	rdfs:label	welding power supply
+Q87581011	rdfs:label	nut and bolt
+Q2036130	rdfs:label	stump grinder
+Q188488	rdfs:label	scale
+Q8025239	rdfs:label	wing nut
+Q165029	rdfs:label	electrician
+Q96966430	rdfs:label	burr grinder
+Q3475711	rdfs:label	sawzall
+Q1333024	rdfs:label	safety gear
+Q5325638	rdfs:label	ear protection
+Q917714	rdfs:label	scrap metal
+Q125831877	rdfs:label	horizontal drilling machine
+Q111212984	rdfs:label	winding key
+Q119519004	rdfs:label	casting mold
+Q126899357	rdfs:label	ceiling hoist
+Q117840815	rdfs:label	wehrhahn
+Q110705779	rdfs:label	handheld drill
+Q72313	rdfs:label	electrical motor
+Q4784773	rdfs:label	arbor press
+Q689880	rdfs:label	oil platform
+Q78442627	rdfs:label	offshore oil platform
+Q689880	rdfs:label	oil rig
+Q125865096	rdfs:label	offshore oil rig
+Q192130	rdfs:label	horseshoe
+Q455037	rdfs:label	assembly line
+Q11010088	rdfs:label	assembly line worker
+Q59896089	rdfs:label	measuring machine
+Q60734095	rdfs:label	woodwork
+Q390417	rdfs:label	crucible
+Q10436913	rdfs:label	lumber yard
+Q3564023	rdfs:label	utility vehicle
+Q212500	rdfs:label	rivet
+Q108766	rdfs:label	inkjet printer
+Q26623	rdfs:label	rail
+Q6607	rdfs:label	guitar
+Q303790	rdfs:label	tuning peg
+Q2246394	rdfs:label	forging hammer
+Q2144215	rdfs:label	bevel gear
+Q44167	rdfs:label	motor
+Q48378	rdfs:label	pulley
+Q1622008	rdfs:label	high bay
+Q6822707	rdfs:label	metal stock
+Q171433	rdfs:label	dolly
+Q6065042	rdfs:label	core drill
+Q4260703	rdfs:label	train engine
+Q910714	rdfs:label	thermite welding
+Q674484	rdfs:label	mechanical press
+Q953045	rdfs:label	metalworking
+Q3045515	rdfs:label	industrial equipment
+Q146728	rdfs:label	water wheel
+Q483453	rdfs:label	water jet
+Q1139253	rdfs:label	glue stick
+Q1734658	rdfs:label	caulk gun
+Q3537631	rdfs:label	car jack
+Q64114580	rdfs:label	scissor jack
+Q72981050	rdfs:label	riveter
+Q244330	rdfs:label	hinge
+Q1627310	rdfs:label	tig weld
+Q190672	rdfs:label	fire extinguisher
+Q15026	rdfs:label	seat
+Q622550	rdfs:label	trailer
+Q4683254	rdfs:label	saw blade
+Q929	rdfs:label	car
+Q42889	rdfs:label	vehicle
+Q170285	rdfs:label	street sign
+Q1441305	rdfs:label	sign
+Q503958	rdfs:label	street lamp
+Q106827110	rdfs:label	knurling tool
+Q128602181	rdfs:label	compound miter saw
+Q879641	rdfs:label	brush
+Q193897	rdfs:label	paint brush
+Q161524	rdfs:label	mask
+Q813243	rdfs:label	respirator
+Q4439513	rdfs:label	magnetic drilling machine
+Q745837	rdfs:label	vacuum pump
+Q8353	rdfs:label	paper clip
+Q128601795	rdfs:label	electric chainsaw
+Q112265432	rdfs:label	welding glass
+Q124448878	rdfs:label	press machine
+Q3195852	rdfs:label	key hole
+Q1501161	rdfs:label	tool chest
+Q108840205	rdfs:label	grain mill
+Q1142501	rdfs:label	auger
+Q18636073	rdfs:label	good boy
+Q505996	rdfs:label	pallet
+Q105190	rdfs:label	dike
+Q321495	rdfs:label	wire stripper
+Q124441	rdfs:label	washer
+Q1128980	rdfs:label	industrial robot
+Q825237	rdfs:label	safety system
+Q1758340	rdfs:label	hose clamp
+Q174053	rdfs:label	electrical relay
+Q121810425	rdfs:label	relay circuit
+Q5182961	rdfs:label	crawler excavator
+Q205276	rdfs:label	fish hook
+Q471898	rdfs:label	safe
+Q495075	rdfs:label	utility truck
+Q105719289	rdfs:label	air hose
+Q207988	rdfs:label	spirit level
+Q191924	rdfs:label	crank
+Q1843	rdfs:label	dy
+Q34493	rdfs:label	motorcycle
+Q60788959	rdfs:label	flat saw
+Q153988	rdfs:label	bowl
+Q96746126	rdfs:label	screw head
+Q229367	rdfs:label	3d printer
+Q7220961	rdfs:label	shovel
+Q1417378	rdfs:label	torx bit
+Q1392592	rdfs:label	bike lock
+Q9195565	rdfs:label	come along
+Q15989253	rdfs:label	part
+Q192355	rdfs:label	feedstock
+Q128781904	rdfs:label	lathe tool
+Q19037660	rdfs:label	planing machine
+Q507619	rdfs:label	chain
+Q33533021	rdfs:label	3d level
+Q267290	rdfs:label	clothes pin
+Q124714	rdfs:label	spring
+Q1411232	rdfs:label	gas tank
+Q131696	rdfs:label	towel
+Q267290	rdfs:label	clothespin
+Q38720	rdfs:label	wind mill
+Q917714	rdfs:label	metal scrap
+Q35872	rdfs:label	boat
+Q2341315	rdfs:label	stone saw
+Q328325	rdfs:label	stone cutter
+Q1323314	rdfs:label	bag
+Q125500979	rdfs:label	resealable bag
+Q1436963	rdfs:label	key card
+Q118105475	rdfs:label	access card
+Q1304613	rdfs:label	hot glue gun
+Q11789812	rdfs:label	woodworking tool
+Q74636	rdfs:label	whiteout
+Q45286279	rdfs:label	wood adhesive
+Q107407155	rdfs:label	super glue
+Q129067696	rdfs:label	work cell
+Q1510380	rdfs:label	stand
+Q123319143	rdfs:label	reciprocating saw blade
+Q174782	rdfs:label	square
+Q19563580	rdfs:label	railyard
+Q4863336	rdfs:label	barrel nut
+Q160342	rdfs:label	train track
+Q2933755	rdfs:label	hand sander
+Q117073069	rdfs:label	compact drill
+Q211841	rdfs:label	coffee maker
+Q849759	rdfs:label	punch
+Q1963205	rdfs:label	needle scaler
+Q64593274	rdfs:label	buck saw
+Q291319	rdfs:label	crosscut saw
+Q1280719	rdfs:label	rail wheel
+Q20820224	rdfs:label	hand press
+Q17231052	rdfs:label	n95 mask
+Q181623	rdfs:label	warehouse
+Q175821	rdfs:label	micrometer
+Q806378	rdfs:label	bandsaw
+Q773544	rdfs:label	leaf spring
+Q19766	rdfs:label	jackhammer
+Q19018581	rdfs:label	two worker
+Q1545773	rdfs:label	pressure washer
+Q447695	rdfs:label	aluminium tape
+Q1335987	rdfs:label	roller bearing
+Q114962273	rdfs:label	propeller blade
+Q47003909	rdfs:label	print shop
+Q6500733	rdfs:label	printer
+Q208465	rdfs:label	buffer
+Q111302924	rdfs:label	polisher
+Q11658	rdfs:label	transformer
+Q17530767	rdfs:label	handheld circular saw
+Q1639825	rdfs:label	blacksmith
+Q330946	rdfs:label	blade
+Q1794217	rdfs:label	cooper
+Q24706578	rdfs:label	cement truck
+Q182661	rdfs:label	digger
+Q1107164	rdfs:label	steel coil
+Q3406654	rdfs:label	steel industry
+Q79998433	rdfs:label	torpedo car
+Q1414135	rdfs:label	rail vehicle
+Q12172082	rdfs:label	ladle car
+Q112237340	rdfs:label	pneumatic nail gun
+Q124807276	rdfs:label	pneumatic nailer
+Q77257	rdfs:label	nail gun
+Q104555	rdfs:label	tape measure
+Q1421844	rdfs:label	saw horse
+Q66036996	rdfs:label	fluorescent light
+Q738123	rdfs:label	staple
+Q1932875	rdfs:label	rotary hammer
+Q43889008	rdfs:label	hex nut
+Q1339821	rdfs:label	pile driver
+Q3629395	rdfs:label	agricultural tool
+Q116329433	rdfs:label	button hook
+Q2547722	rdfs:label	roller press
+Q173350	rdfs:label	circuit board
+Q627341	rdfs:label	work instruction
+Q4197615	rdfs:label	needle gun
+Q169031	rdfs:label	glove
+Q39334109	rdfs:label	gloved hand
+Q107196990	rdfs:label	bookbinding press
+Q79399688	rdfs:label	manual press
+Q806370	rdfs:label	belt sander
+Q115214935	rdfs:label	chasing hammer
+Q6934510	rdfs:label	oscillating multi tool
+Q1621575	rdfs:label	woodchipper
+Q1820305	rdfs:label	sugar cane mill
+Q119333619	rdfs:label	construction helmet
+Q1765723	rdfs:label	mig weld
+Q123542118	rdfs:label	machining tool
+Q19610114	rdfs:label	switch
+Q1521410	rdfs:label	cooking tool
+Q17996656	rdfs:label	pastry cutter
+Q2239762	rdfs:label	clasp
+Q507559	rdfs:label	sharpening stone
+Q1543947	rdfs:label	grinding stone
+Q5980103	rdfs:label	sand casting
+Q40687	rdfs:label	robotic arm
+Q277885	rdfs:label	rasp
+Q611035	rdfs:label	hydraulic rescue tool
+Q2068127	rdfs:label	friction stir weld
+Q811212	rdfs:label	gear motor
+Q69738	rdfs:label	pully
+Q23769	rdfs:label	box cutter
+Q23719	rdfs:label	swiss army knife
+Q27712725	rdfs:label	probe
+Q1414307	rdfs:label	screw press
+Q43193	rdfs:label	truck
+Q81825	rdfs:label	caterpillar
+Q12791	rdfs:label	sword
+Q98161482	rdfs:label	steel plant
+Q496098	rdfs:label	casting
+Q50225084	rdfs:label	casting material
+Q422053	rdfs:label	plc
+Q500548	rdfs:label	glue
+Q15807771	rdfs:label	screw gun
+Q26062419	rdfs:label	drill rig
+Q20076089	rdfs:label	mining equipment
+Q874311	rdfs:label	construction equipment
+Q115786386	rdfs:label	stock material
+Q1553201	rdfs:label	led bulb
+Q124800723	rdfs:label	laser engraving machine
+Q17517	rdfs:label	phone
+Q155972	rdfs:label	tablet
+Q3099911	rdfs:label	scientific equipment
+Q912313	rdfs:label	optical microscope
+Q912313	rdfs:label	light microscope
+Q127000226	rdfs:label	propane tank
+Q29279406	rdfs:label	fidget spinner
+Q4496973	rdfs:label	drill bit shank
+Q115157326	rdfs:label	soldering iron stand
+Q820037	rdfs:label	miner
+Q124670683	rdfs:label	track maintenance machine
+Q3045515	rdfs:label	industrial machinery
+Q126693120	rdfs:label	autoforge
+Q74249185	rdfs:label	screwdriver head
+Q19599600	rdfs:label	hammer drill
+Q60778901	rdfs:label	tweezer
+Q210	rdfs:label	right angle
+Q111436852	rdfs:label	drilling equipment
+Q59630194	rdfs:label	rock drilling
+Q49844	rdfs:label	post box
+Q987767	rdfs:label	container
+Q124463937	rdfs:label	cycling helmet
+Q2710609	rdfs:label	eye bolt
+Q833823	rdfs:label	tumbler
+Q1458918	rdfs:label	heat treatment
+Q168983	rdfs:label	fire
+Q192065	rdfs:label	barbed wire
+Q991392	rdfs:label	hand file
+Q47107	rdfs:label	bucket
+Q3635139	rdfs:label	pneumatic tool
+Q2926103	rdfs:label	brazier
+Q670985	rdfs:label	millstone
+Q673782	rdfs:label	ear plug
+Q119622933	rdfs:label	floor light
+Q11464	rdfs:label	plow
+Q16	rdfs:label	can
+Q651690	rdfs:label	pan
+Q127666	rdfs:label	frying pan
+Q298656	rdfs:label	spigot
+Q656656	rdfs:label	faucet
+Q47509387	rdfs:label	rail worker
+Q128751672	rdfs:label	railway fastener
+Q110471128	rdfs:label	flat washer
+Q1124183	rdfs:label	lumberjack
+Q79312268	rdfs:label	lumber jack
+Q102137866	rdfs:label	stanley saw
+Q107196611	rdfs:label	dowel rod
+Q1943369	rdfs:label	telehandler
+Q3288910	rdfs:label	lull
+Q1943369	rdfs:label	teleporter
+Q256817	rdfs:label	rubber band
+Q1191195	rdfs:label	mold
+Q8502	rdfs:label	mount
+Q100892463	rdfs:label	metal bar
+Q2252352	rdfs:label	protective mask
+Q14674	rdfs:label	pencil
+Q253591	rdfs:label	wine press
+Q66035178	rdfs:label	textile worker
+Q17657044	rdfs:label	metal press
+Q647023	rdfs:label	filter press
+Q5464159	rdfs:label	foil bearing
+Q12280	rdfs:label	bridge
+Q127477693	rdfs:label	cylindrical roller bearing
+Q7557228	rdfs:label	soldering
+Q22981669	rdfs:label	glass jar
+Q11469	rdfs:label	glass
+Q106538872	rdfs:label	cracked glass
+Q1139048	rdfs:label	coffee grinder
+Q42948	rdfs:label	wall
+Q214856	rdfs:label	tiling
+Q468402	rdfs:label	tile
+Q1304613	rdfs:label	glue gun
+Q623755	rdfs:label	conveyor belt
+Q113263084	rdfs:label	digital caliper
+Q42302	rdfs:label	clay
+Q5297199	rdfs:label	door bolt
+Q116971194	rdfs:label	pipe cutter
+Q24724975	rdfs:label	floor sander
+Q890857	rdfs:label	floor polisher
+Q890857	rdfs:label	floor buffer
+Q1193246	rdfs:label	toolkit
+Q588676	rdfs:label	pick
+Q8353	rdfs:label	paperclip
+Q4200418	rdfs:label	soldering gun
+Q4674568	rdfs:label	acorn nut
+Q64307066	rdfs:label	electric wiring
+Q2041172	rdfs:label	gauge
+Q129276588	rdfs:label	hand light
+Q954753	rdfs:label	ratchet
+Q681515	rdfs:label	knee pad
+Q551997	rdfs:label	metal wire
+Q71445148	rdfs:label	wire coil
+Q100315265	rdfs:label	metal tool
+Q1146283	rdfs:label	turnstile
+Q2146470	rdfs:label	emergency sign
+Q333518	rdfs:label	safety harness
+Q599312	rdfs:label	kitchen knife
+Q84863066	rdfs:label	ibeam
+Q80852	rdfs:label	bottle opener
+Q129697162	rdfs:label	wood planer
+Q1259123	rdfs:label	signal generator
+Q5797705	rdfs:label	power hacksaw
+Q39076453	rdfs:label	angle bracket
+Q24237712	rdfs:label	wall outlet
+Q183413	rdfs:label	hole puncher
+Q123193932	rdfs:label	tool belt
+Q8076	rdfs:label	game console
+Q8093	rdfs:label	nintendo
+Q8076	rdfs:label	console
+Q910714	rdfs:label	thermite weld
+Q10981947	rdfs:label	sledgehammer
+Q13222221	rdfs:label	stair
+Q217941	rdfs:label	solar panel
+Q3095365	rdfs:label	railing
+Q7545947	rdfs:label	smoke stack
+Q806371	rdfs:label	bandsaw blade
+Q116960193	rdfs:label	hockey uniform
+Q1940083	rdfs:label	hockey stick
+Q116961038	rdfs:label	guitar tuning peg
+Q940913	rdfs:label	continuous track
+Q940913	rdfs:label	tank tread
+Q69505601	rdfs:label	square nail
+Q1328068	rdfs:label	truss
+Q174174	rdfs:label	diesel engine
+Q406839	rdfs:label	tack
+Q1404150	rdfs:label	needle
+Q838312	rdfs:label	pin
+Q652657	rdfs:label	manhole cover
+Q953045	rdfs:label	metalwork
+Q11835431	rdfs:label	engraving
+Q296001	rdfs:label	closeup
+Q2455671	rdfs:label	orbital sander
+Q1135567	rdfs:label	buckle
+Q7581549	rdfs:label	spur gear
+Q749316	rdfs:label	snack
+Q61826542	rdfs:label	cutting end
+Q36495	rdfs:label	nan
+Q1069045	rdfs:label	nipper
+Q175334	rdfs:label	wheelbarrow
+Q1587588	rdfs:label	end effector
+Q6927283	rdfs:label	mower blade
+Q330946	rdfs:label	cutting blade
+Q28960505	rdfs:label	metal blade
+Q21142557	rdfs:label	lawnmower maintenance
+Q124659184	rdfs:label	blade assembly
+Q179700	rdfs:label	statue
+Q123910883	rdfs:label	wire connection
+Q1943369	rdfs:label	telescopic handler
+Q1417516	rdfs:label	cowcatcher
+Q2095549	rdfs:label	pilot
+Q4990607	rdfs:label	knife sharpener
+Q917001	rdfs:label	briquette press
+Q129305216	rdfs:label	trenching machine
+Q874311	rdfs:label	heavy machinery
+Q3493807	rdfs:label	ditch witch
+Q11821162	rdfs:label	tracked vehicle
+Q1207302	rdfs:label	jar
+Q97614313	rdfs:label	waterjet
+Q641296	rdfs:label	total station
+Q212500	rdfs:label	riveting
+Q122225901	rdfs:label	support device
+Q1334343	rdfs:label	roller
+Q1117066	rdfs:label	steam roller
+Q1131760	rdfs:label	compactor
+Q1307532	rdfs:label	saeco
+Q192848	rdfs:label	grater
+Q8027646	rdfs:label	wisk
+Q522821	rdfs:label	ladel
+Q15148	rdfs:label	spatula
+Q31910963	rdfs:label	die plate
+Q12012720	rdfs:label	center punch
+Q4826554	rdfs:label	automatic center punch
+Q16275225	rdfs:label	collet
+Q686	rdfs:label	van
+Q703534	rdfs:label	personnel
+Q811122	rdfs:label	construction worker
+Q41551	rdfs:label	tube
+Q207988	rdfs:label	bubble level
+Q420139	rdfs:label	cordless power tool
+Q406839	rdfs:label	thumbtack
+Q29713878	rdfs:label	goggle
+Q10512335	rdfs:label	thread die
+Q2477852	rdfs:label	latch
+Q2041172	rdfs:label	measuring device
+Q7575612	rdfs:label	rafter square
+Q7575612	rdfs:label	speed square
+Q204984	rdfs:label	protractor
+Q2464427	rdfs:label	door hinge
+Q385378	rdfs:label	construction work
+Q20249813	rdfs:label	outdoor work
+Q6027660	rdfs:label	industrial labor
+Q23824436	rdfs:label	hex screw
+Q123131014	rdfs:label	metalworking machine
+Q42344	rdfs:label	cone
+Q1501161	rdfs:label	tool kit
+Q21450643	rdfs:label	lemoine
+Q914940	rdfs:label	electrical tape
+Q107706928	rdfs:label	lag screw
+Q11294562	rdfs:label	coverall
+Q689574	rdfs:label	wire saw
+Q1411613	rdfs:label	hoist
+Q106361441	rdfs:label	wood pile
+Q66221	rdfs:label	storage
+Q1195470	rdfs:label	locker
+Q205276	rdfs:label	fishing hook
+Q634299	rdfs:label	fire hydrant
+Q64536717	rdfs:label	digging tool
+Q2925119	rdfs:label	brick mason
+Q479448	rdfs:label	hand axe
+Q165278	rdfs:label	jack
+Q61962974	rdfs:label	disassembled
+Q14660	rdfs:label	flag
+Q10896915	rdfs:label	cutting machine
+Q117208381	rdfs:label	paper handling
+Q139143	rdfs:label	extrusion
+Q129487115	rdfs:label	dough extrusion
+Q646	rdfs:label	thermometer
+Q499954	rdfs:label	knurling
+Q5322	rdfs:label	capacitor
+Q7784632	rdfs:label	thinning shear
+Q1780087	rdfs:label	rolled steel
+Q114482907	rdfs:label	molten steel
+Q214649	rdfs:label	measuring tape
+Q75647336	rdfs:label	circular hand saw
+Q117207985	rdfs:label	slicer
+Q2205714	rdfs:label	paper cutter
+Q131154	rdfs:label	hoe
+Q21087130	rdfs:label	garden hoe
+Q16354	rdfs:label	white board
+Q3057632	rdfs:label	step ladder
+Q36534	rdfs:label	chemical reaction
+Q355406	rdfs:label	potter
+Q57216	rdfs:label	plate
+Q1138868	rdfs:label	glass plate
+Q12876	rdfs:label	tank
+Q107174289	rdfs:label	pressure tank
+Q347690	rdfs:label	workbench
+Q1894990	rdfs:label	extension cord
+Q176440	rdfs:label	hose
+Q2041172	rdfs:label	measurement device
+Q25210881	rdfs:label	hammer scale
+Q13422881	rdfs:label	razor
+Q16974764	rdfs:label	amazon locker
+Q19818	rdfs:label	mill chuck
+Q116330835	rdfs:label	worktable
+Q128602186	rdfs:label	track saw
+Q193358	rdfs:label	ladle
+Q16328169	rdfs:label	treble hook
+Q1039512	rdfs:label	rubber glove
+Q182221	rdfs:label	fuse
+Q24887709	rdfs:label	concentric reducer
+Q19818	rdfs:label	drill chuck
+Q4940105	rdfs:label	bolt head
+Q7300768	rdfs:label	lock box
+Q107196711	rdfs:label	fabric scissor
+Q190868	rdfs:label	boot
+Q13231055	rdfs:label	computer numerical control machine
+Q108325678	rdfs:label	leather cutter
+Q82508	rdfs:label	sheet metal shear
+Q131502	rdfs:label	generator
+Q963375	rdfs:label	diesel generator
+Q10282403	rdfs:label	face mask
+Q107637124	rdfs:label	spade bit
+Q71021927	rdfs:label	lock washer
+Q1305848	rdfs:label	rail joint
+Q12111866	rdfs:label	track maintenance
+Q1311670	rdfs:label	railway infrastructure
+Q120490102	rdfs:label	metal rail
+Q11426	rdfs:label	metal
+Q2916202	rdfs:label	cookie cutter
+Q15904214	rdfs:label	fruit press
+Q5422725	rdfs:label	eye protection
+Q87901186	rdfs:label	skin protection
+Q116961613	rdfs:label	safety glove
+Q37930	rdfs:label	stamp
+Q126164614	rdfs:label	platen press
+Q1589327	rdfs:label	tiered storage
+Q11650	rdfs:label	electronics
+Q23914072	rdfs:label	pneumatic rock drill
+Q40847	rdfs:label	scissor
+Q45299	rdfs:label	wire brush
+Q1500589	rdfs:label	zip tie
+Q123353271	rdfs:label	belt grinder
+Q22731	rdfs:label	stone
+Q5290	rdfs:label	screen
+Q289	rdfs:label	tv
+Q53060	rdfs:label	gate
+Q1639780	rdfs:label	regulator
+Q3744469	rdfs:label	bow saw
+Q1146040	rdfs:label	tank car
+Q23490	rdfs:label	wine bottle
+Q245761	rdfs:label	grinding machine
+Q92745666	rdfs:label	diamond saw
+Q625488	rdfs:label	dreamer
+Q5159079	rdfs:label	cut off saw
+Q17008663	rdfs:label	decanter centrifuge
+Q63396662	rdfs:label	container crane
+Q156696	rdfs:label	broom
+Q449109	rdfs:label	adjustable wrench
+Q1573728	rdfs:label	textile machine
+Q174053	rdfs:label	electric relay
+Q840333	rdfs:label	safety pin
+Q2283738	rdfs:label	height gauge
+Q36539	rdfs:label	oven
+Q71865	rdfs:label	ice screw
+Q1392526	rdfs:label	bike rack
+Q66565690	rdfs:label	wood statue
+Q61996946	rdfs:label	metal part
+Q125965434	rdfs:label	handwheel
+Q1992360	rdfs:label	stick weld
+Q124461123	rdfs:label	electrode holder
+Q11446	rdfs:label	ship
+Q18046748	rdfs:label	snip
+Q3749263	rdfs:label	electrical device
+Q109370668	rdfs:label	terminal block
+Q91005674	rdfs:label	vintage electronics
+Q123131439	rdfs:label	wiring device
+Q123856557	rdfs:label	connection box
+Q947546	rdfs:label	electrical terminal
+Q1625730	rdfs:label	log splitter
+Q267290	rdfs:label	clothes peg
+Q64570459	rdfs:label	door latch
+Q14906	rdfs:label	garlic press
+Q488855	rdfs:label	keyway
+Q111525439	rdfs:label	ear protector
+Q16953	rdfs:label	hex key
+Q16953	rdfs:label	hex wrench
+Q80795536	rdfs:label	coal furnace
+Q1317634	rdfs:label	cauldron
+Q2518328	rdfs:label	gantry
+Q100869637	rdfs:label	snap ring plier
+Q1820425	rdfs:label	pumpjack
+Q123988297	rdfs:label	safety fence
+Q126720107	rdfs:label	forging machine
+Q50894916	rdfs:label	grinding disc
+Q2605626	rdfs:label	scraper
+Q234668	rdfs:label	cart
+Q598812	rdfs:label	claw crane
+Q26643341	rdfs:label	mill wheel
+Q18891559	rdfs:label	stamping machine
+Q623106	rdfs:label	cnc milling machine
+Q8849	rdfs:label	cnc
+Q623106	rdfs:label	horizontal mill
+Q856679	rdfs:label	wringer
+Q106692057	rdfs:label	pieralisi
+Q133792	rdfs:label	globe
+Q208502	rdfs:label	rail car
+Q681384	rdfs:label	lockout tagout
+Q331533	rdfs:label	tape dispenser
+Q87285943	rdfs:label	factory worker
+Q148571	rdfs:label	fence
+Q2736159	rdfs:label	car key
+Q132629	rdfs:label	circuit
+Q132629	rdfs:label	electrical circuit
+Q11878012	rdfs:label	electrical component
+Q5321	rdfs:label	resistor
+Q80831	rdfs:label	integrated circuit
+Q270380	rdfs:label	nail clipper
+Q6934510	rdfs:label	oscillating tool
+Q899260	rdfs:label	meat grinder
+Q22706	rdfs:label	license plate
+Q170285	rdfs:label	road sign
+Q188734	rdfs:label	sink
+Q3246731	rdfs:label	pop rivet
+Q15296811	rdfs:label	drawer
+Q7582075	rdfs:label	square nut
+Q76456709	rdfs:label	molten metal
+Q813014	rdfs:label	machining center
+Q214252	rdfs:label	stable
+Q193559	rdfs:label	valve
+Q805189	rdfs:label	ram press
+Q5969132	rdfs:label	light truck
+Q890886	rdfs:label	drilling
+Q123527619	rdfs:label	metal type
+Q837721	rdfs:label	typesetting
+Q426853	rdfs:label	movable type
+Q117230295	rdfs:label	print block
+Q120671722	rdfs:label	large scale storage
+Q193955	rdfs:label	cloth
+Q8039083	rdfs:label	wipe
+Q1395006	rdfs:label	cardboard box
+Q187939	rdfs:label	manufacturing
+Q2572032	rdfs:label	molcajete
+Q173136	rdfs:label	blender
+Q347690	rdfs:label	work bench
+Q115368	rdfs:label	ruler and compass
+Q599007	rdfs:label	work table
+Q87577919	rdfs:label	closed lock
+Q239990	rdfs:label	wood lathe
+Q278156	rdfs:label	wood turning
+Q6817227	rdfs:label	water bottle
+Q831584	rdfs:label	concrete mixer
+Q123039456	rdfs:label	arc welder
+Q131030	rdfs:label	operator
+Q1751118	rdfs:label	suction hose
+Q11475	rdfs:label	vacuum
+Q866612	rdfs:label	solder
+Q1447435	rdfs:label	engraving machine
+Q657874	rdfs:label	pantograph
+Q15026	rdfs:label	chair
+Q496	rdfs:label	stool
+Q204157	rdfs:label	power supply
+Q954087	rdfs:label	mixer
+Q2755114	rdfs:label	manufacturing process
+Q2516832	rdfs:label	print production
+Q128901248	rdfs:label	automated machinery
+Q26897133	rdfs:label	printing industry
+Q121417964	rdfs:label	paper feed
+Q2001958	rdfs:label	emergency stop
+Q24963225	rdfs:label	cnc machine tool
+Q507559	rdfs:label	whetstone
+Q85020313	rdfs:label	lead pellet
+Q4817	rdfs:label	column
+Q4633433	rdfs:label	2 by 4
+Q1585730	rdfs:label	milling
+Q15071918	rdfs:label	tower bell
+Q3500690	rdfs:label	church bell
+Q142274	rdfs:label	sandpape
+Q920507	rdfs:label	trencher
+Q178898	rdfs:label	compressor
+Q19563580	rdfs:label	rail yard
+Q1585781	rdfs:label	needlenose plier
+Q122599815	rdfs:label	medical tool
+Q31087	rdfs:label	calculator
+Q212469	rdfs:label	souvenir
+Q119522601	rdfs:label	laser processing machine
+Q116961910	rdfs:label	cable tie gun
+Q144764	rdfs:label	pruning shear
+Q1621597	rdfs:label	woodworking bench
+Q3933812	rdfs:label	boring machine
+Q123690242	rdfs:label	deburring tool
+Q211367	rdfs:label	sheet metal
+Q1132073	rdfs:label	cord
+Q102310586	rdfs:label	construction machinery
+Q112847762	rdfs:label	site investigation
+Q1349130	rdfs:label	geotechnical engineering
+Q61048905	rdfs:label	subsurface exploration
+Q623402	rdfs:label	solder gun
+Q119984485	rdfs:label	solder metal
+Q128769524	rdfs:label	copper pipe
+Q2069494	rdfs:label	steel mill
+Q26591964	rdfs:label	foundary
+Q1199344	rdfs:label	rubber tire
+Q12796	rdfs:label	gun
+Q174583	rdfs:label	bullet
+Q764324	rdfs:label	hole cutter
+Q192848	rdfs:label	shredder
+Q376793	rdfs:label	turnbuckle
+Q116926551	rdfs:label	wood post
+Q7797170	rdfs:label	threaded pipe
+Q216054	rdfs:label	bandaid
+Q4851182	rdfs:label	bearing ball
+Q216530	rdfs:label	garbage can
+Q35473	rdfs:label	window
+Q1183768	rdfs:label	scroll saw
+Q117208018	rdfs:label	vacuum seal
+Q99703422	rdfs:label	leatherworking tool
+Q400406	rdfs:label	stitching awl
+Q111547477	rdfs:label	piercing tool
+Q2578402	rdfs:label	handheld tool
+Q907209	rdfs:label	pestle
+Q182612	rdfs:label	pipe fitting
+Q266328	rdfs:label	joining t
+Q103896	rdfs:label	compass
+Q45242859	rdfs:label	shelf
+Q171043	rdfs:label	steam locomotive
+Q171043	rdfs:label	steam train
+Q100268447	rdfs:label	steel plate
+Q51821936	rdfs:label	tensioners
+Q1500589	rdfs:label	cable tie
+Q119625073	rdfs:label	wire bundle
+Q1536423	rdfs:label	tower crane
+Q3775755	rdfs:label	masking tape
+Q1499103	rdfs:label	vernier caliper
+Q1293405	rdfs:label	lumbar
+Q387683	rdfs:label	networking cable
+Q215414	rdfs:label	foam
+Q18510097	rdfs:label	glass cutter
+Q129486655	rdfs:label	adjustable reamer
+Q189085	rdfs:label	crayon
+Q171888	rdfs:label	eraser
+Q10928827	rdfs:label	crucible tongs
+Q173350	rdfs:label	printed circuit board
+Q111366670	rdfs:label	storage bin
+Q7197242	rdfs:label	pipe clamp
+Q102310586	rdfs:label	construction machine
+Q40558	rdfs:label	forge
+Q125932228	rdfs:label	forge tool
+Q119270352	rdfs:label	vehicle mount
+Q3947	rdfs:label	house
+Q3118165	rdfs:label	construction crane
+Q4235625	rdfs:label	rail spike
+Q64594603	rdfs:label	chopping blade
+Q5639563	rdfs:label	retaining pin
+Q131677	rdfs:label	bulldozer
+Q100364609	rdfs:label	cylindrical tool
+Q63258405	rdfs:label	metalworking tool
+Q54963269	rdfs:label	precision tool
+Q120767038	rdfs:label	machining fixture
+Q70317690	rdfs:label	screw anchor
+Q56284371	rdfs:label	drywall anchor
+Q1521410	rdfs:label	kitchen tool
+Q14902	rdfs:label	lemon squeezer
+Q105667240	rdfs:label	wire rope clip
+Q105667240	rdfs:label	wire rope clamp
+Q575650	rdfs:label	rust
+Q37095362	rdfs:label	pruner
+Q49013	rdfs:label	sewing machine
+Q83948162	rdfs:label	volt meter
+Q88184790	rdfs:label	dust mask
+Q4215046	rdfs:label	habau
+Q607634	rdfs:label	boom lift
+Q331483	rdfs:label	demolition
+Q3246458	rdfs:label	dump truck
+Q39908	rdfs:label	pant
+Q3744469	rdfs:label	bucksaw
+Q186819	rdfs:label	headphone
+Q1419325	rdfs:label	multitool
+Q13681	rdfs:label	crow bar
+Q44497	rdfs:label	mining
+Q2144243	rdfs:label	snap ring
+Q11204681	rdfs:label	blacksmithing
+Q6027271	rdfs:label	induction heater
+Q23009	rdfs:label	door knob
+Q244909	rdfs:label	clipboard
+Q23910012	rdfs:label	large machine
+Q12099206	rdfs:label	mining machine
+Q211584	rdfs:label	vending machine
+Q782664	rdfs:label	mobile crane
+Q2106694	rdfs:label	telescopic crane
+Q213376	rdfs:label	wine production
+Q627371	rdfs:label	food production
+Q131596	rdfs:label	farm
+Q122872372	rdfs:label	hydraulic excavator
+Q117207985	rdfs:label	meat slicer
+Q124439799	rdfs:label	utility knife blade
+Q7338815	rdfs:label	rivnut
+Q332050	rdfs:label	wrecker
+Q1754646	rdfs:label	power strip
+Q1142798	rdfs:label	surge protector
+Q12334336	rdfs:label	juicer
+Q110156292	rdfs:label	metal saw
+Q3914	rdfs:label	school
+Q1043452	rdfs:label	maintenance
+Q23824436	rdfs:label	hex socket
+Q121832537	rdfs:label	mounting table
+Q123519959	rdfs:label	filter system
+Q176440	rdfs:label	tubing
+Q4199385	rdfs:label	drill pipe
+Q75965947	rdfs:label	philip head
+Q29823830	rdfs:label	flat head
+Q1182913	rdfs:label	dewalt tool
+Q2121955	rdfs:label	trip hammer
+Q2121955	rdfs:label	tilt hammer
+Q198918	rdfs:label	draw plate
+Q120096433	rdfs:label	drilling operation
+Q66436111	rdfs:label	site work
+Q366134	rdfs:label	chest
+Q4712569	rdfs:label	albion press
+Q9268371	rdfs:label	metal cast
+Q131790	rdfs:label	adhesive
+Q1172972	rdfs:label	thumb screw
+Q4817	rdfs:label	pillar
+Q749400	rdfs:label	screw thread
+Q1506914	rdfs:label	gold bar
+Q244475	rdfs:label	tap
+Q70328558	rdfs:label	metal bracket
+Q116970842	rdfs:label	plumbing fitting
+Q284523	rdfs:label	climbing harness
+Q1348006	rdfs:label	block
+Q117487999	rdfs:label	voltage supply
+Q179741	rdfs:label	voltmeter
+Q174334	rdfs:label	breadboard
+Q124639894	rdfs:label	forestry mulcher
+Q26347604	rdfs:label	extrusion machine
+Q5307564	rdfs:label	oil drill
+Q1992074	rdfs:label	bit set
+Q1780087	rdfs:label	i beam
+Q29533715	rdfs:label	rasper
+Q3875186	rdfs:label	construction
+Q81096	rdfs:label	engineer
+Q1435859	rdfs:label	grippers
+Q245005	rdfs:label	teapot
+Q185744	rdfs:label	gel
+Q123008860	rdfs:label	metal coil
+Q83405	rdfs:label	workshop
+Q117207939	rdfs:label	food grinder
+Q1363413	rdfs:label	masking
+Q3749263	rdfs:label	electrical equipment
+Q17849064	rdfs:label	drummel
+Q2346649	rdfs:label	underwater weld
+Q7132658	rdfs:label	paper tape
+Q14524031	rdfs:label	safety wear
+Q30326170	rdfs:label	makeblock
+Q3388627	rdfs:label	saw set
+Q11625433	rdfs:label	razor blade
+Q50854824	rdfs:label	metal slab
+Q117052828	rdfs:label	ice saw
+Q8703132	rdfs:label	dumpster
+Q11232734	rdfs:label	man hole
+Q100355821	rdfs:label	wooden piece
+Q109324038	rdfs:label	rotary drilling rig
+Q263057	rdfs:label	whisk
+Q2027611	rdfs:label	woodworking machine
+Q68	rdfs:label	computer
+Q3962	rdfs:label	laptop
+Q63524048	rdfs:label	mount point
+Q3642843	rdfs:label	bosch power tool
+Q61978174	rdfs:label	olive oil mill
+Q124648537	rdfs:label	control cabinet
+Q19768	rdfs:label	machine tool
+Q62810703	rdfs:label	wire edm
+Q70930235	rdfs:label	machine tooling
+Q947463	rdfs:label	socket wrench
+Q816713	rdfs:label	wood dust
+Q2455671	rdfs:label	random orbital sander
+Q1426871	rdfs:label	coordinate measuring machine
+Q2559156	rdfs:label	tipped tool
+Q59630125	rdfs:label	radial ball bearing
+Q85840418	rdfs:label	deep groove ball bearing
+Q4674568	rdfs:label	cap nut
+Q23074354	rdfs:label	deadbolt
+Q11680736	rdfs:label	oxygen tank
+Q3246584	rdfs:label	forstner bit
+Q7220580	rdfs:label	bore gauge
+Q20470	rdfs:label	cement mixer truck
+Q18027944	rdfs:label	snow mobile
+Q5457384	rdfs:label	flange nut
+Q4951474	rdfs:label	packing tape
+Q79007	rdfs:label	way
+Q119847455	rdfs:label	engraving device
+Q985062	rdfs:label	miter box
+Q27150131	rdfs:label	juice press
+Q1411795	rdfs:label	caulk
+Q72313	rdfs:label	electric motor
+Q1096423	rdfs:label	window shutter
+Q45227	rdfs:label	piston
+Q117208100	rdfs:label	chainsaw chain
+Q65510161	rdfs:label	corner brace
+Q2872553	rdfs:label	sticker
+Q6432723	rdfs:label	card
+Q23709761	rdfs:label	key ring
+Q16523459	rdfs:label	typograph
+Q128846418	rdfs:label	welded pipe
+Q532998	rdfs:label	manhole
+Q532998	rdfs:label	utility hole
+Q532998	rdfs:label	maintenance hole
+Q532998	rdfs:label	sewer hole
+Q182661	rdfs:label	escavator
+Q489157	rdfs:label	stapler
+Q1765723	rdfs:label	mig welding
+Q119703425	rdfs:label	powder container
+Q45701	rdfs:label	trash
+Q1255405	rdfs:label	cutting plier
+Q245934	rdfs:label	diagonal cutting plier
+Q15766303	rdfs:label	precision engineering
+Q196721	rdfs:label	machinist
+Q63105527	rdfs:label	mechanical workshop
+Q11941822	rdfs:label	rock drill
+Q107196578	rdfs:label	razor sharpener
+Q193057	rdfs:label	forging
+Q833418	rdfs:label	caster
+Q125764280	rdfs:label	caster wheel
+Q1548347	rdfs:label	cheese slicer
+Q4213	rdfs:label	telescope
+Q109637938	rdfs:label	tape gun
+Q11399	rdfs:label	rock
+Q5428384	rdfs:label	facemask
+Q1413117	rdfs:label	retention pond
+Q232254	rdfs:label	pickaxe
+Q127661772	rdfs:label	robotic welding
+Q122624060	rdfs:label	digital level
+Q1065579	rdfs:label	accessory
+Q165447	rdfs:label	pen
+Q82173007	rdfs:label	wall hook
+Q4401667	rdfs:label	ice auger
+Q3675306	rdfs:label	broom head
+Q627405	rdfs:label	garage door
+Q425548	rdfs:label	palette
+Q129301212	rdfs:label	steel production
+Q1501648	rdfs:label	coupler
+Q1613682	rdfs:label	welding equipment
+Q572421	rdfs:label	comptometer
+Q2343026	rdfs:label	heat press
+Q1585082	rdfs:label	safety vest
+Q1856025	rdfs:label	taping
+Q3275823	rdfs:label	steel square
+Q193897	rdfs:label	paintbrush
+Q660875	rdfs:label	water jet cutter
+Q7824062	rdfs:label	toolbelt
+Q182780	rdfs:label	dagger
+Q1621575	rdfs:label	tree chipper
+Q723748	rdfs:label	fork
+Q24237712	rdfs:label	power jack
+Q1192753	rdfs:label	fluid bearing
+Q1046315	rdfs:label	rack
+Q73992613	rdfs:label	switch panel
+Q580148	rdfs:label	job site
+Q959782	rdfs:label	excavation
+Q66254631	rdfs:label	industrial operation
+Q244	rdfs:label	bar
+Q83893	rdfs:label	ingot
+Q144764	rdfs:label	hand pruner
+Q1275728	rdfs:label	tool cabinet
+Q46870528	rdfs:label	building foundation
+Q1143184	rdfs:label	feeler gauge
+Q1992360	rdfs:label	stick welding
+Q12058409	rdfs:label	heat cutter
+Q100328350	rdfs:label	metal piece
+Q10884	rdfs:label	tree
+Q122759139	rdfs:label	testing machine
+Q2341415	rdfs:label	stone mill
+Q6501028	rdfs:label	water container
+Q2988641	rdfs:label	self tapping screw
+Q1551087	rdfs:label	crack monitor
+Q187665	rdfs:label	thermostat
+Q536135	rdfs:label	tricycle
+Q34493	rdfs:label	motorbike
+Q2801795	rdfs:label	staple gun
+Q143983	rdfs:label	epoxy
+Q143983	rdfs:label	epoxy resin
+Q2828885	rdfs:label	metalworker
+Q116961519	rdfs:label	personnel lift
+Q628261	rdfs:label	flare
+Q445454	rdfs:label	punch press
+Q4575936	rdfs:label	lamb
+Q21550597	rdfs:label	factory lamp
+Q1126251	rdfs:label	food processor
+Q116073019	rdfs:label	sand paper block
+Q97041167	rdfs:label	open door
+Q198632	rdfs:label	brick factory
+Q23009	rdfs:label	door handle
+Q117811065	rdfs:label	key pad
+Q57567502	rdfs:label	door lock
+Q1639825	rdfs:label	ironworker
+Q5039282	rdfs:label	cargo hook
+Q107706928	rdfs:label	lag bolt
+Q1313540	rdfs:label	safety curtain
+Q96098481	rdfs:label	paper box
+Q3498102	rdfs:label	tapered roller
+Q495451	rdfs:label	lifting hook
+Q103310478	rdfs:label	tool head
+Q34486	rdfs:label	helicopter
+Q47916656	rdfs:label	aluminum part
+Q93301	rdfs:label	engine
+Q1154549	rdfs:label	wood shaper
+Q124611108	rdfs:label	vaccuum
+Q122619501	rdfs:label	step drill bit
+Q152810	rdfs:label	tip
+Q67255610	rdfs:label	electric hand drill
+Q675461	rdfs:label	splitter
+Q92398501	rdfs:label	wooden machine
+Q109991174	rdfs:label	mechanical grinder
+Q122166219	rdfs:label	gear mechanism
+Q4775181	rdfs:label	antique tool
+Q1501161	rdfs:label	tool box
+Q2327972	rdfs:label	spot welding
+Q24965049	rdfs:label	hammer and nail
+Q126548143	rdfs:label	pump system
+Q2376482	rdfs:label	beam
+Q1906859	rdfs:label	chain link fence
+Q124460687	rdfs:label	tig welding torch
+Q1936841	rdfs:label	semi truck
+Q12529	rdfs:label	worm drive
+Q144004	rdfs:label	rack and pinion
+Q123727302	rdfs:label	sheepsfoot roller
+Q961258	rdfs:label	outside
+Q83310	rdfs:label	mouse
+Q856	rdfs:label	barcode
+Q46335	rdfs:label	typewriter
+Q128837392	rdfs:label	railroad rail
+Q987767	rdfs:label	box
+Q80831	rdfs:label	microchip
+Q11456	rdfs:label	semiconductor
+Q11653	rdfs:label	electronic component
+Q175403	rdfs:label	microelectronics
+Q122642275	rdfs:label	chip assembly
+Q2858615	rdfs:label	electronic device
+Q8076	rdfs:label	gaming console
+Q60791221	rdfs:label	batch mixer
+Q199306	rdfs:label	keypad
+Q192532	rdfs:label	digital lock
+Q203605	rdfs:label	carpentry
+Q1569881	rdfs:label	voltage tester
+Q33767	rdfs:label	hand
+Q813014	rdfs:label	cnc machining center
+Q3966	rdfs:label	device
+Q830071	rdfs:label	pallet jack
+Q129313299	rdfs:label	removed material
+Q102414554	rdfs:label	wood shaving
+Q41207	rdfs:label	coin
+Q126391262	rdfs:label	turning tool
+Q1421844	rdfs:label	sawhorse
+Q382292	rdfs:label	power cord
+Q1043123	rdfs:label	hydrant wrench
+Q2082700	rdfs:label	hopper
+Q233320	rdfs:label	scaffolding
+Q111535555	rdfs:label	wall anchor
+Q121540385	rdfs:label	jack stand
+Q11442	rdfs:label	bike
+Q845671	rdfs:label	spoke
+Q1154740	rdfs:label	sprocket
+Q1231985	rdfs:label	pedal
+Q1057381	rdfs:label	pulley wheel
+Q188209	rdfs:label	axle
+Q58977917	rdfs:label	hot glass
+Q12185286	rdfs:label	glass blowing
+Q24175362	rdfs:label	glass working
+Q57107688	rdfs:label	glass forming
+Q106197103	rdfs:label	vintage press
+Q51329708	rdfs:label	mechanical tool
+Q1798641	rdfs:label	communication tower
+Q122379454	rdfs:label	heart lock
+Q170477	rdfs:label	chimney
+Q91078098	rdfs:label	black and white photo
+Q2097438	rdfs:label	shaper
+Q1783255	rdfs:label	colored pencil
+Q17132188	rdfs:label	stamping press
+Q13226383	rdfs:label	facility
+Q1662011	rdfs:label	industrial facility
+Q9386255	rdfs:label	production facility
+Q156362	rdfs:label	winery
+Q123480170	rdfs:label	fermentation tank
+Q455037	rdfs:label	conveyor system
+Q11653	rdfs:label	component
+Q3388624	rdfs:label	crimping tool
+Q1661080	rdfs:label	small press
+Q88484833	rdfs:label	centrifuge tube
+Q894640	rdfs:label	vial
+Q44494	rdfs:label	grinding mill
+Q22657	rdfs:label	concrete
+Q587682	rdfs:label	oil well
+Q10940	rdfs:label	strap
+Q15118690	rdfs:label	screw jack
+Q29008984	rdfs:label	fall protection harness
+Q37466060	rdfs:label	grate
+Q120918208	rdfs:label	electric driver
+Q1584189	rdfs:label	wheel nut
+Q19599600	rdfs:label	impact drill
+Q100301145	rdfs:label	large saw
+Q25841836	rdfs:label	electric fan
+Q1645496	rdfs:label	japanese saw
+Q12859031	rdfs:label	master lock
+Q5371009	rdfs:label	emery cloth
+Q184754	rdfs:label	string
+Q85714779	rdfs:label	kite string
+Q898090	rdfs:label	fire alarm
+Q962420	rdfs:label	light switch
+Q1258332	rdfs:label	dremel
+Q112821074	rdfs:label	stone mortar
+Q1340324	rdfs:label	robot hand
+Q116971324	rdfs:label	work light
+Q479448	rdfs:label	handaxe
+Q1974641	rdfs:label	screw conveyor
+Q1413942	rdfs:label	material handling
+Q1974641	rdfs:label	auger conveyor
+Q12076007	rdfs:label	automated system
+Q815240	rdfs:label	clothes hanger
+Q26322028	rdfs:label	horse wheel
+Q193470	rdfs:label	turbine engine
+Q583582	rdfs:label	mineral oil
+Q34486	rdfs:label	egg beater
+Q100323240	rdfs:label	silver ingot
+Q66618436	rdfs:label	thickness gauge
+Q670985	rdfs:label	mill stone
+Q64629735	rdfs:label	key and lock
+Q108100344	rdfs:label	pegboard
+Q329737	rdfs:label	butcher
+Q114513045	rdfs:label	hand crank
+Q921044	rdfs:label	putty knife
+Q672890	rdfs:label	hatchet
+Q27103691	rdfs:label	tile cutter
+Q29957	rdfs:label	funnel
+Q13681	rdfs:label	crowbar
+Q64560125	rdfs:label	ice tongs
+Q383441	rdfs:label	spaghetti tongs
+Q3374965	rdfs:label	decorative hinge
+Q128383194	rdfs:label	shear press
+Q49845	rdfs:label	post
+Q51338	rdfs:label	key fob
+Q46847	rdfs:label	ring
+Q17749758	rdfs:label	bag of nail
+Q197	rdfs:label	plane
+Q37505936	rdfs:label	ginder
+Q7250083	rdfs:label	propane torch
+Q421922	rdfs:label	paper shredder
+Q11352	rdfs:label	angle
+Q173056	rdfs:label	loom
+Q1779530	rdfs:label	white out
+Q1210980	rdfs:label	sponge
+Q14693887	rdfs:label	well drilling
+Q7673461	rdfs:label	tablet press
+Q842763	rdfs:label	magnetic bearing
+Q911493	rdfs:label	shim
+Q58600124	rdfs:label	electric discharge machine
+Q20820275	rdfs:label	edm machine
+Q126716966	rdfs:label	fabrication shop
+Q21491996	rdfs:label	fein
+Q16877599	rdfs:label	multimaster
+Q20490876	rdfs:label	bridge over river
+Q64686013	rdfs:label	bridge over water
+Q124471037	rdfs:label	metal snip
+Q168838	rdfs:label	gas can
+Q5318	rdfs:label	router
+Q376	rdfs:label	clock
+Q122157280	rdfs:label	snowblower
+Q128602179	rdfs:label	bone saw
+Q16996913	rdfs:label	industrial press
+Q10841774	rdfs:label	core drilling
+Q1072334	rdfs:label	roadwork
+Q2108251	rdfs:label	precision drilling
+Q4346060	rdfs:label	label printer
+Q556186	rdfs:label	shaft
+Q166849	rdfs:label	magnifying glass
+Q567411	rdfs:label	loctite
+Q2249485	rdfs:label	thread locker
+Q2249485	rdfs:label	threadlocker
+Q1967985	rdfs:label	wheel lock
+Q2830312	rdfs:label	wheel clamp
+Q1060390	rdfs:label	overhead crane
+Q2451515	rdfs:label	metal cutting
+Q5428139	rdfs:label	fabrication
+Q125576630	rdfs:label	welding process
+Q125472060	rdfs:label	steel cutting
+Q111459146	rdfs:label	spring clamp
+Q510662	rdfs:label	loop
+Q749400	rdfs:label	bolt thread
+Q85953699	rdfs:label	demolition site
+Q1884262	rdfs:label	maglite
+Q961734	rdfs:label	blacklight
+Q1734658	rdfs:label	caulking gun
+Q24237712	rdfs:label	power outlet
+Q520049	rdfs:label	honing steel
+Q91248259	rdfs:label	traintrack
+Q105122904	rdfs:label	pump drill
+Q24852414	rdfs:label	print machine
+Q7233748	rdfs:label	post driver
+Q122624563	rdfs:label	hydraulic power tool
+Q72283402	rdfs:label	steel cable
+Q3093735	rdfs:label	ferrier
+Q21491742	rdfs:label	knipper
+Q104000277	rdfs:label	dowel pin
+Q123128269	rdfs:label	wheel bearing
+Q197	rdfs:label	airplane
+Q689880	rdfs:label	drilling platform
+Q876650	rdfs:label	filter
+Q1473346	rdfs:label	stained glass
+Q947686	rdfs:label	lamp shade
+Q73978433	rdfs:label	colored tape
+Q128822	rdfs:label	knot
+Q131559	rdfs:label	shield
+Q852010	rdfs:label	barrier
+Q1607557	rdfs:label	threaded rod
+Q2662870	rdfs:label	brace
+Q25626431	rdfs:label	metal grinder
+Q117208351	rdfs:label	utility cart
+Q352917	rdfs:label	battery charger
+Q100396546	rdfs:label	metal grinding
+Q1531992	rdfs:label	sledge axe
+Q1621575	rdfs:label	chipper
+Q122258415	rdfs:label	head lamp
+Q674484	rdfs:label	machine press
+Q679300	rdfs:label	hand wheel
+Q406839	rdfs:label	push pin
+Q2211295	rdfs:label	drilling machine
+Q64574194	rdfs:label	wick trimmer
+Q847270	rdfs:label	dewalt
+Q201928	rdfs:label	ax
+Q28453197	rdfs:label	hot metal
+Q594739	rdfs:label	framing
+Q17031731	rdfs:label	lifx
+Q10289	rdfs:label	barrel
+Q124816652	rdfs:label	laser cutting machine
+Q3228765	rdfs:label	cd drive
+Q64819622	rdfs:label	disk drive
+Q12688575	rdfs:label	oil derrick
+Q511224	rdfs:label	derrick
+Q815240	rdfs:label	coat hanger
+Q1265533	rdfs:label	air conditioner
+Q128023071	rdfs:label	cnc tool
+Q55722937	rdfs:label	metal sheet
+Q726	rdfs:label	horse
+Q3363853	rdfs:label	strainer
+Q1057060	rdfs:label	colander
+Q381155	rdfs:label	sieve
+Q2796	rdfs:label	ipad
+Q1817081	rdfs:label	roller conveyor
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q36794	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q192043	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q190672	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q182612	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q182612	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q182612	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q182612	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q36794	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q1183543
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q12774177	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q11019	subclassOf	Q35825432
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39397	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q28823	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q28823	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q179700	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q28823	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q179700	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q32489	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q28823	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q28823	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39397	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q11460	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39397	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q34379	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q8205328
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q173878	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q163373	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q121916	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q121916	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q173878	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q173878	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q173878	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q10273457
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q728	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q39546	subclassOf	Q123691918
+Q40847	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q192848	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q192848	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q40847	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q125356	subclassOf	Q1760958
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q28877	subclassOf	Q2897903
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q35758	subclassOf	Q28732711
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q19768	subclassOf	Q1327701
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q811909
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q82	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q31087	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q82	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q3966	subclassOf	Q2858615
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q36161	subclassOf	Q217594
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q267228
+Q34379	subclassOf	Q56146933
+Q34379	subclassOf	Q56146933
+Q34379	subclassOf	Q56146933
+Q34379	subclassOf	Q56146933
+Q34379	subclassOf	Q56146933
+Q34379	subclassOf	Q56146933
+Q901	subclassOf	Q1650915
+Q901	subclassOf	Q1650915
+Q901	subclassOf	Q20826540
+Q901	subclassOf	Q20826540
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q7239	subclassOf	Q66394244
+Q36180	subclassOf	Q482980
+Q36180	subclassOf	Q482980
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q11460	subclassOf	Q113518695
+Q9128	subclassOf	Q7098889
+Q11386	subclassOf	Q12969754
+Q18335	subclassOf	Q179635
+Q870	subclassOf	Q1414135
+Q870	subclassOf	Q15618781
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q795052
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q3778211
+Q215627	subclassOf	Q106559804
+Q43229	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q43229	subclassOf	Q106559804
+Q43229	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q43229	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q215627	subclassOf	Q106559804
+Q43229	subclassOf	Q106559804
+Q12569864	subclassOf	Q106559804
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q6671777	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q6671777	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q58778	subclassOf	Q99527517
+Q6671777	subclassOf	Q99527517
+Q83405	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q12280	subclassOf	Q811979
+Q42948	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q4817	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q12518	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q3947	subclassOf	Q811979
+Q4817	subclassOf	Q811979
+Q83405	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q41176	subclassOf	Q811979
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q83405	subclassOf	Q13226383
+Q309314	subclassOf	Q2912517
+Q191529	subclassOf	Q1668556
+Q40558	subclassOf	Q628858
+Q360418	subclassOf	Q628858
+Q40558	subclassOf	Q628858
+Q40558	subclassOf	Q1662011
+Q40558	subclassOf	Q1662011
+Q446	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q446	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q40164	subclassOf	Q186713
+Q48378	subclassOf	Q186713
+Q446	subclassOf	Q186713
+Q446	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q11022	subclassOf	Q186713
+Q40164	subclassOf	Q186713
+Q446	subclassOf	Q186713
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q7048977	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q378078	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q378078	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q103940464	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q15989253	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q15989253	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q7048977	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q15989253	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q488383	subclassOf	Q35120
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q32489	subclassOf	Q1514280
+Q182780	subclassOf	Q1514280
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q11022	subclassOf	Q7797167
+Q190977	subclassOf	Q7797167
+Q418	subclassOf	Q1472062
+Q11024	subclassOf	Q6031064
+Q11024	subclassOf	Q6031064
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q52948	subclassOf	Q111931734
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q1310214
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q14745	subclassOf	Q12375131
+Q104363	subclassOf	Q63258405
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q3249551	subclassOf	Q20937557
+Q11012	subclassOf	Q107307291
+Q11012	subclassOf	Q107307291
+Q11012	subclassOf	Q107307291
+Q11012	subclassOf	Q107307291
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q483247	subclassOf	Q30241068
+Q4421	subclassOf	Q37813
+Q4421	subclassOf	Q101998
+Q4421	subclassOf	Q2083910
+Q4421	subclassOf	Q27096220
+Q38720	subclassOf	Q44494
+Q38720	subclassOf	Q44494
+Q553	subclassOf	Q66545296
+Q1364	subclassOf	Q24060707
+Q1364	subclassOf	Q109121364
+Q14976	subclassOf	Q115923072
+Q14976	subclassOf	Q115923072
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q854457
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q629173	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q43229	subclassOf	Q1639378
+Q629173	subclassOf	Q1639378
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q43229	subclassOf	Q16334295
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q142274	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q11789812
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q25294	subclassOf	Q30058680
+Q19818	subclassOf	Q839546
+Q190100	subclassOf	Q839546
+Q190100	subclassOf	Q839546
+Q19818	subclassOf	Q839546
+Q102836	subclassOf	Q839546
+Q190100	subclassOf	Q839546
+Q19818	subclassOf	Q839546
+Q19818	subclassOf	Q839546
+Q19818	subclassOf	Q839546
+Q190100	subclassOf	Q839546
+Q190100	subclassOf	Q839546
+Q144004	subclassOf	Q839546
+Q188209	subclassOf	Q839546
+Q19818	subclassOf	Q846600
+Q19818	subclassOf	Q846600
+Q19818	subclassOf	Q846600
+Q19818	subclassOf	Q846600
+Q19818	subclassOf	Q846600
+Q19818	subclassOf	Q10863071
+Q19818	subclassOf	Q10863071
+Q19818	subclassOf	Q10863071
+Q19818	subclassOf	Q10863071
+Q19818	subclassOf	Q10863071
+Q149757	subclassOf	Q101073848
+Q149757	subclassOf	Q101073848
+Q193395	subclassOf	Q15141646
+Q193395	subclassOf	Q15141646
+Q36794	subclassOf	Q391414
+Q12511	subclassOf	Q391414
+Q12511	subclassOf	Q391414
+Q53060	subclassOf	Q391414
+Q4817	subclassOf	Q391414
+Q35473	subclassOf	Q391414
+Q4817	subclassOf	Q391414
+Q36794	subclassOf	Q391414
+Q53060	subclassOf	Q391414
+Q11469	subclassOf	Q103382
+Q11469	subclassOf	Q103382
+Q11469	subclassOf	Q103382
+Q11469	subclassOf	Q103382
+Q192047	subclassOf	Q11795128
+Q192047	subclassOf	Q11795128
+Q192047	subclassOf	Q11795128
+Q192047	subclassOf	Q11795128
+Q192047	subclassOf	Q11795128
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q451967	subclassOf	Q61788060
+Q154411	subclassOf	Q2578402
+Q39397	subclassOf	Q2578402
+Q16953	subclassOf	Q2578402
+Q193142	subclassOf	Q2578402
+Q193142	subclassOf	Q2578402
+Q154411	subclassOf	Q2578402
+Q16953	subclassOf	Q2578402
+Q16953	subclassOf	Q2578402
+Q13681	subclassOf	Q2578402
+Q154411	subclassOf	Q2578402
+Q154411	subclassOf	Q2578402
+Q39397	subclassOf	Q2578402
+Q13681	subclassOf	Q2578402
+Q39397	subclassOf	Q2578402
+Q5322	subclassOf	Q233003
+Q5322	subclassOf	Q233003
+Q5322	subclassOf	Q9252564
+Q11658	subclassOf	Q9252564
+Q5322	subclassOf	Q9252564
+Q105731	subclassOf	Q333170
+Q105731	subclassOf	Q107589046
+Q1408286	subclassOf	Q104637332
+Q1408286	subclassOf	Q104637332
+Q1408286	subclassOf	Q104637332
+Q1190554	subclassOf	Q26907166
+Q3249551	subclassOf	Q26907166
+Q3249551	subclassOf	Q26907166
+Q1190554	subclassOf	Q26907166
+Q79529	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q161	subclassOf	Q10683158
+Q161	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q161	subclassOf	Q10683158
+Q161	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q79529	subclassOf	Q10683158
+Q102205	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q214609	subclassOf	Q10683158
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q79529	subclassOf	Q43460564
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131790	subclassOf	Q1726215
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q1480529
+Q131172	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q1765723	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q1458918	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q331483	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q1765723	subclassOf	Q10843872
+Q193057	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q131172	subclassOf	Q10843872
+Q82753	subclassOf	Q37787110
+Q216601	subclassOf	Q2198779
+Q496098	subclassOf	Q1363994
+Q496098	subclassOf	Q1363994
+Q496098	subclassOf	Q1363994
+Q496098	subclassOf	Q1408288
+Q496098	subclassOf	Q1408288
+Q496098	subclassOf	Q1408288
+Q499954	subclassOf	Q1408288
+Q1146001	subclassOf	Q31464082
+Q13402900	subclassOf	Q31464082
+Q200266	subclassOf	Q4576564
+Q617332	subclassOf	Q14897293
+Q617332	subclassOf	Q14897293
+Q1420	subclassOf	Q752870
+Q1420	subclassOf	Q752870
+Q1420	subclassOf	Q1515493
+Q34493	subclassOf	Q1515493
+Q1420	subclassOf	Q1515493
+Q34493	subclassOf	Q1515493
+Q1420	subclassOf	Q12060681
+Q1420	subclassOf	Q12060681
+Q271669	subclassOf	Q2221906
+Q82794	subclassOf	Q2221906
+Q82794	subclassOf	Q2221906
+Q12280	subclassOf	Q2221906
+Q271669	subclassOf	Q2221906
+Q82794	subclassOf	Q2221906
+Q82794	subclassOf	Q2221906
+Q11472	subclassOf	Q3406743
+Q11472	subclassOf	Q3406743
+Q163373	subclassOf	Q834028
+Q15148	subclassOf	Q834028
+Q15148	subclassOf	Q834028
+Q646	subclassOf	Q834028
+Q29957	subclassOf	Q834028
+Q11442	subclassOf	Q233040
+Q34493	subclassOf	Q233040
+Q34493	subclassOf	Q233040
+Q11442	subclassOf	Q233040
+Q11442	subclassOf	Q595658
+Q11442	subclassOf	Q595658
+Q11442	subclassOf	Q768186
+Q11442	subclassOf	Q768186
+Q169545	subclassOf	Q2162595
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q336	subclassOf	Q105948247
+Q8171	subclassOf	Q2944660
+Q8171	subclassOf	Q115372263
+Q23404	subclassOf	Q34749
+Q23498	subclassOf	Q1066186
+Q385378	subclassOf	Q3875186
+Q385378	subclassOf	Q3875186
+Q385378	subclassOf	Q8187769
+Q187939	subclassOf	Q8187769
+Q385378	subclassOf	Q8187769
+Q187939	subclassOf	Q8187769
+Q187939	subclassOf	Q8187769
+Q327954	subclassOf	Q20087093
+Q12408	subclassOf	Q2041172
+Q646	subclassOf	Q2041172
+Q12408	subclassOf	Q2041172
+Q12408	subclassOf	Q2041172
+Q167676	subclassOf	Q2041172
+Q39397	subclassOf	Q115170682
+Q39397	subclassOf	Q115170682
+Q39397	subclassOf	Q115170682
+Q31029	subclassOf	Q320809
+Q31029	subclassOf	Q111726451
+Q28367692	subclassOf	Q119264233
+Q28367692	subclassOf	Q119264233
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q43845	subclassOf	Q108286992
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q214339	subclassOf	Q4897819
+Q54050	subclassOf	Q106589819
+Q8502	subclassOf	Q106589819
+Q22667	subclassOf	Q1311670
+Q22667	subclassOf	Q1311670
+Q160342	subclassOf	Q1311670
+Q160342	subclassOf	Q1311670
+Q22667	subclassOf	Q2678338
+Q22667	subclassOf	Q2678338
+Q22667	subclassOf	Q16608251
+Q22667	subclassOf	Q16608251
+Q122375923	subclassOf	Q16889133
+Q122375923	subclassOf	Q16889133
+Q13136	subclassOf	Q732577
+Q13136	subclassOf	Q732577
+Q13136	subclassOf	Q732577
+Q571	subclassOf	Q732577
+Q13136	subclassOf	Q732577
+Q119648796	subclassOf	Q732577
+Q13136	subclassOf	Q1063801
+Q13136	subclassOf	Q1063801
+Q13136	subclassOf	Q1063801
+Q13136	subclassOf	Q1063801
+Q26726	subclassOf	Q192691
+Q26726	subclassOf	Q11992872
+Q5	subclassOf	Q154954
+Q5	subclassOf	Q154954
+Q5	subclassOf	Q164509
+Q5	subclassOf	Q164509
+Q5	subclassOf	Q26401003
+Q5	subclassOf	Q26401003
+Q5	subclassOf	Q110551885
+Q5	subclassOf	Q110551885
+Q11422	subclassOf	Q1485500
+Q11422	subclassOf	Q1485500
+Q11422	subclassOf	Q1485500
+Q11422	subclassOf	Q17538258
+Q11422	subclassOf	Q17538258
+Q11410	subclassOf	Q17538258
+Q11422	subclassOf	Q17538258
+Q1411242	subclassOf	Q31172650
+Q17451	subclassOf	Q118872183
+Q17451	subclassOf	Q118872183
+Q11427	subclassOf	Q10772391
+Q11427	subclassOf	Q10772391
+Q38867	subclassOf	Q65037298
+Q189996	subclassOf	Q26269603
+Q376799	subclassOf	Q35145743
+Q376799	subclassOf	Q35145743
+Q376799	subclassOf	Q35145743
+Q376799	subclassOf	Q35145743
+Q193811	subclassOf	Q111535476
+Q12511	subclassOf	Q83620
+Q12280	subclassOf	Q83620
+Q12511	subclassOf	Q83620
+Q34442	subclassOf	Q83620
+Q34442	subclassOf	Q83620
+Q12511	subclassOf	Q1058733
+Q42948	subclassOf	Q1058733
+Q12511	subclassOf	Q1058733
+Q12511	subclassOf	Q30327093
+Q12511	subclassOf	Q30327093
+Q16953	subclassOf	Q116173407
+Q16953	subclassOf	Q116173407
+Q16953	subclassOf	Q116173407
+Q11348	subclassOf	Q130901
+Q11348	subclassOf	Q130901
+Q11348	subclassOf	Q130901
+Q11348	subclassOf	Q130901
+Q11348	subclassOf	Q846537
+Q11348	subclassOf	Q846537
+Q11348	subclassOf	Q846537
+Q11348	subclassOf	Q846537
+Q11348	subclassOf	Q1756942
+Q11348	subclassOf	Q1756942
+Q11348	subclassOf	Q1756942
+Q11348	subclassOf	Q1756942
+Q11446	subclassOf	Q1229765
+Q35872	subclassOf	Q1229765
+Q11446	subclassOf	Q1229765
+Q11446	subclassOf	Q16391167
+Q11446	subclassOf	Q16391167
+Q11446	subclassOf	Q20980497
+Q11446	subclassOf	Q20980497
+Q11033	subclassOf	Q121182
+Q11033	subclassOf	Q121182
+Q12529	subclassOf	Q6497460
+Q12529	subclassOf	Q6497460
+Q148958	subclassOf	Q987767
+Q80228	subclassOf	Q987767
+Q207822	subclassOf	Q987767
+Q188075	subclassOf	Q987767
+Q47107	subclassOf	Q987767
+Q154038	subclassOf	Q987767
+Q80228	subclassOf	Q987767
+Q216530	subclassOf	Q987767
+Q154038	subclassOf	Q987767
+Q216530	subclassOf	Q987767
+Q188075	subclassOf	Q987767
+Q168838	subclassOf	Q987767
+Q10289	subclassOf	Q987767
+Q154038	subclassOf	Q987767
+Q5320	subclassOf	Q1273786
+Q5320	subclassOf	Q1273786
+Q5320	subclassOf	Q1273786
+Q5320	subclassOf	Q1273786
+Q5320	subclassOf	Q1273786
+Q5320	subclassOf	Q102110916
+Q5320	subclassOf	Q102110916
+Q5320	subclassOf	Q102110916
+Q5320	subclassOf	Q102110916
+Q5320	subclassOf	Q102110916
+Q5320	subclassOf	Q114982040
+Q5320	subclassOf	Q114982040
+Q5320	subclassOf	Q114982040
+Q5320	subclassOf	Q114982040
+Q5320	subclassOf	Q114982040
+Q1075	subclassOf	Q14506045
+Q685727	subclassOf	Q838368
+Q517596	subclassOf	Q120926552
+Q132629	subclassOf	Q120926552
+Q132629	subclassOf	Q120926552
+Q517596	subclassOf	Q120926552
+Q80071	subclassOf	Q1272626
+Q80071	subclassOf	Q1272626
+Q80071	subclassOf	Q3695082
+Q80071	subclassOf	Q3695082
+Q174565	subclassOf	Q3241972
+Q174565	subclassOf	Q10617810
+Q183413	subclassOf	Q110548733
+Q183413	subclassOf	Q110548733
+Q281867	subclassOf	Q12773274
+Q124291	subclassOf	Q26717101
+Q124291	subclassOf	Q26717101
+Q124291	subclassOf	Q26717101
+Q124291	subclassOf	Q26717101
+Q124291	subclassOf	Q26717101
+Q6999	subclassOf	Q4235019
+Q6999	subclassOf	Q4235019
+Q6999	subclassOf	Q16686022
+Q6999	subclassOf	Q16686022
+Q179700	subclassOf	Q860861
+Q179700	subclassOf	Q860861
+Q157927	subclassOf	Q907341
+Q12337	subclassOf	Q3773693
+Q14906	subclassOf	Q3773693
+Q320441	subclassOf	Q55238861
+Q320441	subclassOf	Q55238861
+Q320441	subclassOf	Q55238861
+Q320441	subclassOf	Q55238861
+Q320441	subclassOf	Q55238861
+Q126780	subclassOf	Q104033909
+Q165029	subclassOf	Q1391083
+Q196721	subclassOf	Q1391083
+Q165029	subclassOf	Q2588761
+Q838948	subclassOf	Q17537576
+Q7397	subclassOf	Q17537576
+Q7397	subclassOf	Q17537576
+Q7397	subclassOf	Q17537576
+Q11639	subclassOf	Q17537576
+Q838948	subclassOf	Q17537576
+Q212500	subclassOf	Q2002016
+Q212500	subclassOf	Q2002016
+Q212500	subclassOf	Q2002016
+Q82	subclassOf	Q178648
+Q82	subclassOf	Q178648
+Q82	subclassOf	Q12820205
+Q82	subclassOf	Q12820205
+Q6607	subclassOf	Q57306162
+Q6607	subclassOf	Q113519195
+Q34442	subclassOf	Q113519195
+Q34442	subclassOf	Q113519195
+Q422937	subclassOf	Q125576630
+Q422937	subclassOf	Q125576630
+Q422937	subclassOf	Q125576630
+Q15026	subclassOf	Q2207370
+Q15026	subclassOf	Q2207370
+Q15026	subclassOf	Q129006002
+Q15026	subclassOf	Q129006002
+Q49848	subclassOf	Q37866906
+Q49848	subclassOf	Q37866906
+Q1441305	subclassOf	Q7189713
+Q1441305	subclassOf	Q112965645
+Q82794	subclassOf	Q26713767
+Q82794	subclassOf	Q26713767
+Q107425	subclassOf	Q4835091
+Q8353	subclassOf	Q111459146
+Q8353	subclassOf	Q111459146
+Q205276	subclassOf	Q2604618
+Q205276	subclassOf	Q2604618
+Q11173	subclassOf	Q578779
+Q11173	subclassOf	Q578779
+Q11173	subclassOf	Q578779
+Q11173	subclassOf	Q20026787
+Q11173	subclassOf	Q20026787
+Q11173	subclassOf	Q20026787
+Q34493	subclassOf	Q11723891
+Q34493	subclassOf	Q11723891
+Q153988	subclassOf	Q851782
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q864377
+Q36161	subclassOf	Q5469988
+Q36161	subclassOf	Q5469988
+Q36161	subclassOf	Q5469988
+Q36161	subclassOf	Q5469988
+Q36161	subclassOf	Q5469988
+Q36161	subclassOf	Q5469988
+Q207961	subclassOf	Q211548
+Q207961	subclassOf	Q211548
+Q13136	subclassOf	Q1348645
+Q16354	subclassOf	Q1348645
+Q13136	subclassOf	Q1348645
+Q192355	subclassOf	Q1550712
+Q15324	subclassOf	Q52105
+Q15324	subclassOf	Q52105
+Q15324	subclassOf	Q52105
+Q15324	subclassOf	Q20719696
+Q43619	subclassOf	Q20719696
+Q15324	subclassOf	Q20719696
+Q15324	subclassOf	Q20719696
+Q35872	subclassOf	Q42889
+Q11436	subclassOf	Q42889
+Q11436	subclassOf	Q42889
+Q11436	subclassOf	Q42889
+Q11436	subclassOf	Q42889
+Q43619	subclassOf	Q2249676
+Q43619	subclassOf	Q4671286
+Q211841	subclassOf	Q117207980
+Q9332	subclassOf	Q2083958
+Q19766	subclassOf	Q3635139
+Q37756	subclassOf	Q1924900
+Q37756	subclassOf	Q1924900
+Q627341	subclassOf	Q12772763
+Q627341	subclassOf	Q12772763
+Q8076	subclassOf	Q1836700
+Q8076	subclassOf	Q1836700
+Q8076	subclassOf	Q1836700
+Q8076	subclassOf	Q1836700
+Q8076	subclassOf	Q15654425
+Q8076	subclassOf	Q15654425
+Q8076	subclassOf	Q15654425
+Q8076	subclassOf	Q15654425
+Q8076	subclassOf	Q55417699
+Q8076	subclassOf	Q55417699
+Q8076	subclassOf	Q55417699
+Q8076	subclassOf	Q55417699
+Q8076	subclassOf	Q105492305
+Q8076	subclassOf	Q105492305
+Q8076	subclassOf	Q105492305
+Q8076	subclassOf	Q105492305
+Q23719	subclassOf	Q390383
+Q23719	subclassOf	Q1419325
+Q729	subclassOf	Q159344
+Q729	subclassOf	Q159344
+Q729	subclassOf	Q159344
+Q81825	subclassOf	Q15630878
+Q129270	subclassOf	Q12038335
+Q12791	subclassOf	Q9180322
+Q12791	subclassOf	Q11897048
+Q33685	subclassOf	Q567521
+Q11035	subclassOf	Q212920
+Q11035	subclassOf	Q581105
+Q68	subclassOf	Q241317
+Q68	subclassOf	Q241317
+Q68	subclassOf	Q241317
+Q68	subclassOf	Q241317
+Q68	subclassOf	Q1172400
+Q68	subclassOf	Q1172400
+Q68	subclassOf	Q1172400
+Q68	subclassOf	Q1172400
+Q68	subclassOf	Q1662611
+Q68	subclassOf	Q1662611
+Q68	subclassOf	Q1662611
+Q68	subclassOf	Q1662611
+Q68	subclassOf	Q3181395
+Q68	subclassOf	Q3181395
+Q68	subclassOf	Q3181395
+Q68	subclassOf	Q3181395
+Q11422	subclassOf	Q21550927
+Q11422	subclassOf	Q21550927
+Q11352	subclassOf	Q118870638
+Q11352	subclassOf	Q118870638
+Q11352	subclassOf	Q123410745
+Q35459920	subclassOf	Q123410745
+Q11352	subclassOf	Q123410745
+Q3196	subclassOf	Q133235
+Q192065	subclassOf	Q551997
+Q11464	subclassOf	Q15306431
+Q11464	subclassOf	Q16000047
+Q117670709	subclassOf	Q1049496
+Q8502	subclassOf	Q35145263
+Q14674	subclassOf	Q26972858
+Q14674	subclassOf	Q26972858
+Q42948	subclassOf	Q27627826
+Q42948	subclassOf	Q66098993
+Q7397	subclassOf	Q47461344
+Q7397	subclassOf	Q47461344
+Q7397	subclassOf	Q47461344
+Q42302	subclassOf	Q12372934
+Q42302	subclassOf	Q21685333
+Q42302	subclassOf	Q34669510
+Q11426	subclassOf	Q34669510
+Q22657	subclassOf	Q34669510
+Q333518	subclassOf	Q3030569
+Q333518	subclassOf	Q3030569
+Q333518	subclassOf	Q118917926
+Q811679	subclassOf	Q61964189
+Q811679	subclassOf	Q61964189
+Q811679	subclassOf	Q61964189
+Q940913	subclassOf	Q2583685
+Q940913	subclassOf	Q2583685
+Q12757	subclassOf	Q6018565
+Q178659	subclassOf	Q478798
+Q125191	subclassOf	Q478798
+Q178659	subclassOf	Q4502142
+Q7850	subclassOf	Q45961
+Q33857	subclassOf	Q45961
+Q34770	subclassOf	Q17376908
+Q36495	subclassOf	Q20667215
+Q190780	subclassOf	Q13415392
+Q190780	subclassOf	Q17781690
+Q190780	subclassOf	Q112826975
+Q496	subclassOf	Q112826975
+Q33767	subclassOf	Q112826975
+Q179700	subclassOf	Q29527347
+Q41551	subclassOf	Q121444807
+Q41551	subclassOf	Q121444807
+Q204984	subclassOf	Q1126161
+Q107435521	subclassOf	Q3523102
+Q107435521	subclassOf	Q3523102
+Q115668308	subclassOf	Q17538423
+Q115668308	subclassOf	Q17538423
+Q115668308	subclassOf	Q17538423
+Q42344	subclassOf	Q937946
+Q14660	subclassOf	Q806880
+Q14660	subclassOf	Q17335294
+Q139143	subclassOf	Q5470205
+Q646	subclassOf	Q3743695
+Q131154	subclassOf	Q3629395
+Q131154	subclassOf	Q3629395
+Q16354	subclassOf	Q3300034
+Q16354	subclassOf	Q117208386
+Q57216	subclassOf	Q97659338
+Q12876	subclassOf	Q130368
+Q188447	subclassOf	Q811367
+Q188447	subclassOf	Q811367
+Q188447	subclassOf	Q811367
+Q11426	subclassOf	Q20098970
+Q37930	subclassOf	Q352618
+Q11650	subclassOf	Q373065
+Q11650	subclassOf	Q373065
+Q45299	subclassOf	Q614467
+Q5290	subclassOf	Q327065
+Q5290	subclassOf	Q6021804
+Q289	subclassOf	Q15078788
+Q36539	subclassOf	Q12269769
+Q36539	subclassOf	Q57583712
+Q7187	subclassOf	Q863908
+Q7187	subclassOf	Q3511065
+Q7187	subclassOf	Q50365914
+Q50894916	subclassOf	Q10803218
+Q91438488	subclassOf	Q168344
+Q4006	subclassOf	Q25106976
+Q4006	subclassOf	Q60533375
+Q4006	subclassOf	Q110304307
+Q125191	subclassOf	Q110304307
+Q4006	subclassOf	Q124608594
+Q132629	subclassOf	Q1900326
+Q132629	subclassOf	Q1900326
+Q22706	subclassOf	Q105449313
+Q22706	subclassOf	Q117209209
+Q462437	subclassOf	Q2995644
+Q11034	subclassOf	Q3514338
+Q37756	subclassOf	Q5447188
+Q210729	subclassOf	Q3749263
+Q570	subclassOf	Q3749263
+Q496	subclassOf	Q1383944
+Q496	subclassOf	Q103907951
+Q204157	subclassOf	Q1753139
+Q2281940	subclassOf	Q17320256
+Q31087	subclassOf	Q2135246
+Q212469	subclassOf	Q2342494
+Q212469	subclassOf	Q12722942
+Q3104537	subclassOf	Q36993249
+Q211367	subclassOf	Q354757
+Q211367	subclassOf	Q354757
+Q211367	subclassOf	Q3827429
+Q211367	subclassOf	Q3827429
+Q12796	subclassOf	Q1194773
+Q12796	subclassOf	Q110155210
+Q216054	subclassOf	Q523536
+Q35473	subclassOf	Q3323696
+Q1293405	subclassOf	Q66600684
+Q171888	subclassOf	Q117208316
+Q3947	subclassOf	Q989946
+Q3947	subclassOf	Q11755880
+Q14902	subclassOf	Q12334336
+Q527395	subclassOf	Q1153014
+Q527395	subclassOf	Q1153014
+Q104493	subclassOf	Q21170479
+Q331483	subclassOf	Q17781833
+Q570	subclassOf	Q1718024
+Q44497	subclassOf	Q548599
+Q23009	subclassOf	Q5297202
+Q23009	subclassOf	Q5297202
+Q23009	subclassOf	Q5708278
+Q23009	subclassOf	Q5708278
+Q627371	subclassOf	Q104637425
+Q627371	subclassOf	Q104637425
+Q131596	subclassOf	Q1497364
+Q3914	subclassOf	Q2385804
+Q476300	subclassOf	Q1656682
+Q11639	subclassOf	Q184485
+Q11639	subclassOf	Q747883
+Q79782	subclassOf	Q1150070
+Q179741	subclassOf	Q21652001
+Q175263	subclassOf	Q494756
+Q81096	subclassOf	Q327055
+Q287	subclassOf	Q40397
+Q287	subclassOf	Q40397
+Q287	subclassOf	Q40397
+Q287	subclassOf	Q1138571
+Q287	subclassOf	Q1138571
+Q287	subclassOf	Q1138571
+Q287	subclassOf	Q28969364
+Q287	subclassOf	Q28969364
+Q287	subclassOf	Q28969364
+Q20470	subclassOf	Q580939
+Q34442	subclassOf	Q1322323
+Q34442	subclassOf	Q1322323
+Q34442	subclassOf	Q27955379
+Q34442	subclassOf	Q27955379
+Q34442	subclassOf	Q123414165
+Q34442	subclassOf	Q123414165
+Q15331	subclassOf	Q4438793
+Q15331	subclassOf	Q116970995
+Q45227	subclassOf	Q49720
+Q45701	subclassOf	Q3566043
+Q196721	subclassOf	Q33394058
+Q4213	subclassOf	Q751997
+Q4213	subclassOf	Q1751850
+Q11399	subclassOf	Q373342
+Q11461	subclassOf	Q626707
+Q11461	subclassOf	Q3882459
+Q37172	subclassOf	Q170475
+Q42240	subclassOf	Q21004260
+Q185698	subclassOf	Q217602
+Q83893	subclassOf	Q867705
+Q10884	subclassOf	Q757163
+Q10884	subclassOf	Q1649770
+Q116961514	subclassOf	Q1413942
+Q628261	subclassOf	Q10805684
+Q7368	subclassOf	Q59099
+Q7368	subclassOf	Q842175
+Q735	subclassOf	Q184872
+Q11642	subclassOf	Q1078913
+Q11642	subclassOf	Q53178539
+Q11436	subclassOf	Q7194062
+Q11436	subclassOf	Q7194062
+Q34486	subclassOf	Q949801
+Q34486	subclassOf	Q949801
+Q152810	subclassOf	Q98929991
+Q35059	subclassOf	Q36253
+Q856	subclassOf	Q188889
+Q856	subclassOf	Q1048236
+Q856	subclassOf	Q6723621
+Q11456	subclassOf	Q31450902
+Q189447	subclassOf	Q757012
+Q33767	subclassOf	Q26962795
+Q33767	subclassOf	Q110558047
+Q18537	subclassOf	Q42501
+Q18537	subclassOf	Q42501
+Q1368	subclassOf	Q1643989
+Q1368	subclassOf	Q1659862
+Q1368	subclassOf	Q7598359
+Q10940	subclassOf	Q100505188
+Q29957	subclassOf	Q1521410
+Q7590	subclassOf	Q4284762
+Q49845	subclassOf	Q268592
+Q197	subclassOf	Q1949826
+Q197	subclassOf	Q1949826
+Q197	subclassOf	Q2875704
+Q197	subclassOf	Q2875704
+Q102205	subclassOf	Q1704572
+Q5318	subclassOf	Q1546066
+Q376	subclassOf	Q4198689
+Q376	subclassOf	Q42622779
+Q376	subclassOf	Q115923123
+Q19	subclassOf	Q896677
+Q7281	subclassOf	Q905726
+Q7281	subclassOf	Q4202233
+Q7281	subclassOf	Q121757905
+Q1415187	subclassOf	Q24229398
+Q13235160	subclassOf	Q13420330
+Q8386	subclassOf	Q409205
+Q4492	subclassOf	Q778637
+Q4492	subclassOf	Q864114
+Q4492	subclassOf	Q2384798
+Q726	subclassOf	Q165115
+Q726	subclassOf	Q57814795
+Q726	subclassOf	Q110878538
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q11012	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q11012	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q11012	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19766	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q11012	subclassOf	Q11019
+Q68	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q68	subclassOf	Q11019
+Q68	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q20470	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q19768	subclassOf	Q11019
+Q376	subclassOf	Q11019
+Q68	subclassOf	Q11019
+Q340169	subclassOf	Q12774177
+Q7397	subclassOf	Q12774177
+Q7397	subclassOf	Q12774177
+Q340169	subclassOf	Q12774177
+Q7397	subclassOf	Q12774177
+Q1799072	subclassOf	Q12774177
+Q340169	subclassOf	Q12774177
+Q14674	subclassOf	Q121916
+Q14674	subclassOf	Q121916
+Q37077	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q193220	subclassOf	Q39546
+Q161071	subclassOf	Q39546
+Q161071	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q132041	subclassOf	Q39546
+Q190667	subclassOf	Q39546
+Q161071	subclassOf	Q39546
+Q12408	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q37077	subclassOf	Q39546
+Q132041	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q19766	subclassOf	Q39546
+Q15148	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q11464	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q15148	subclassOf	Q39546
+Q176440	subclassOf	Q39546
+Q32489	subclassOf	Q39546
+Q12408	subclassOf	Q39546
+Q132041	subclassOf	Q39546
+Q176440	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q31087	subclassOf	Q39546
+Q12408	subclassOf	Q39546
+Q37077	subclassOf	Q39546
+Q176440	subclassOf	Q39546
+Q15331	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q58964	subclassOf	Q39546
+Q34379	subclassOf	Q39546
+Q11438	subclassOf	Q35758
+Q11438	subclassOf	Q35758
+Q115820956	subclassOf	Q35758
+Q11438	subclassOf	Q35758
+Q11438	subclassOf	Q35758
+Q11438	subclassOf	Q35758
+Q11438	subclassOf	Q35758
+Q131427	subclassOf	Q7239
+Q5	subclassOf	Q215627
+Q5	subclassOf	Q215627
+Q1415187	subclassOf	Q12569864
+Q12518	subclassOf	Q41176
+Q3947	subclassOf	Q41176
+Q12518	subclassOf	Q41176
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q16686448	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q216601	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q4406616	subclassOf	Q488383
+Q110558466	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q4406616	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q4406616	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q2424752	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q58778	subclassOf	Q488383
+Q246672	subclassOf	Q7048977
+Q937228	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q151885	subclassOf	Q7048977
+Q1046315	subclassOf	Q7048977
+Q937228	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q151885	subclassOf	Q7048977
+Q937228	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q246672	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q151885	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11475	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q151885	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q151885	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q1046315	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q246672	subclassOf	Q7048977
+Q11028	subclassOf	Q7048977
+Q246672	subclassOf	Q7048977
+Q53617489	subclassOf	Q103940464
+Q1310239	subclassOf	Q15989253
+Q219858	subclassOf	Q15989253
+Q872	subclassOf	Q418
+Q7281	subclassOf	Q11024
+Q476300	subclassOf	Q52948
+Q125506646	subclassOf	Q52948
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q15026	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q15026	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q14748	subclassOf	Q14745
+Q7798100	subclassOf	Q483247
+Q1293220	subclassOf	Q483247
+Q926230	subclassOf	Q483247
+Q1293220	subclassOf	Q483247
+Q160034	subclassOf	Q1364
+Q19767	subclassOf	Q25294
+Q19767	subclassOf	Q25294
+Q7590	subclassOf	Q451967
+Q12819913	subclassOf	Q1190554
+Q926230	subclassOf	Q1190554
+Q331483	subclassOf	Q1190554
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q739302	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q739302	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q42240	subclassOf	Q3249551
+Q739302	subclassOf	Q3249551
+Q739302	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q1914636	subclassOf	Q3249551
+Q3182649	subclassOf	Q3249551
+Q169336	subclassOf	Q79529
+Q185744	subclassOf	Q79529
+Q1146001	subclassOf	Q13402900
+Q1046315	subclassOf	Q617332
+Q1046315	subclassOf	Q617332
+Q28797	subclassOf	Q336
+Q28797	subclassOf	Q336
+Q28797	subclassOf	Q336
+Q28797	subclassOf	Q336
+Q28797	subclassOf	Q336
+Q488855	subclassOf	Q28367692
+Q488855	subclassOf	Q28367692
+Q29175	subclassOf	Q11348
+Q23490	subclassOf	Q80228
+Q127666	subclassOf	Q154038
+Q228039	subclassOf	Q517596
+Q228039	subclassOf	Q517596
+Q23009	subclassOf	Q517596
+Q23009	subclassOf	Q517596
+Q11456	subclassOf	Q124291
+Q259589	subclassOf	Q320441
+Q188488	subclassOf	Q126780
+Q1473346	subclassOf	Q838948
+Q16817	subclassOf	Q107425
+Q66194	subclassOf	Q11173
+Q11158	subclassOf	Q11173
+Q5173	subclassOf	Q729
+Q5173	subclassOf	Q729
+Q210	subclassOf	Q11352
+Q284523	subclassOf	Q333518
+Q260899	subclassOf	Q107435521
+Q125191	subclassOf	Q107435521
+Q204794	subclassOf	Q462437
+Q837721	subclassOf	Q462437
+Q426853	subclassOf	Q11034
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q5320	subclassOf	Q210729
+Q5320	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11658	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q5320	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q5320	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q5320	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q11653	subclassOf	Q210729
+Q36534	subclassOf	Q2281940
+Q36534	subclassOf	Q2281940
+Q213376	subclassOf	Q627371
+Q11386	subclassOf	Q37172
+Q116961519	subclassOf	Q116961514
+Q36649	subclassOf	Q735
+Q287	subclassOf	Q18537
+Q287	subclassOf	Q18537
+Q287	subclassOf	Q18537
+Q11435	subclassOf	Q102205
+Q11435	subclassOf	Q102205
+Q12140	subclassOf	Q8386
+Q193395	subclassOf	Q340169
+Q11033	subclassOf	Q340169
+Q11033	subclassOf	Q340169
+Q193395	subclassOf	Q340169
+Q571	subclassOf	Q340169
+Q733553	subclassOf	Q340169
+Q2695280	subclassOf	Q1799072
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q12639	subclassOf	Q34379
+Q23769	subclassOf	Q32489
+Q23769	subclassOf	Q32489
+Q11469	subclassOf	Q11438
+Q11469	subclassOf	Q11438
+Q11469	subclassOf	Q11438
+Q11469	subclassOf	Q11438
+Q756	subclassOf	Q131427
+Q756	subclassOf	Q131427
+Q756	subclassOf	Q131427
+Q1454986	subclassOf	Q58778
+Q994895	subclassOf	Q58778
+Q386724	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q286583	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q286583	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q286583	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q386724	subclassOf	Q16686448
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q191529	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q169545	subclassOf	Q2424752
+Q327954	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28823	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11422	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q115633690	subclassOf	Q2424752
+Q115922057	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28823	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28823	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11035	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11422	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q115797408	subclassOf	Q2424752
+Q115921371	subclassOf	Q2424752
+Q116961643	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q7397	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q7397	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q115923192	subclassOf	Q2424752
+Q116960630	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q115668308	subclassOf	Q2424752
+Q115923192	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q2383811	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q571	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q7397	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11422	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28823	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q115668308	subclassOf	Q2424752
+Q115923192	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q117207560	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q115668308	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28823	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q233320	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q214609	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q11460	subclassOf	Q2424752
+Q2383811	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q28877	subclassOf	Q2424752
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q223557	subclassOf	Q4406616
+Q47146	subclassOf	Q110558466
+Q23808	subclassOf	Q110558466
+Q47146	subclassOf	Q110558466
+Q11563	subclassOf	Q246672
+Q309314	subclassOf	Q937228
+Q1207505	subclassOf	Q937228
+Q628523	subclassOf	Q11028
+Q628523	subclassOf	Q11028
+Q42848	subclassOf	Q11028
+Q42848	subclassOf	Q11028
+Q53617407	subclassOf	Q53617489
+Q53617407	subclassOf	Q53617489
+Q124711467	subclassOf	Q53617489
+Q107	subclassOf	Q53617489
+Q28935994	subclassOf	Q1310239
+Q2308577	subclassOf	Q219858
+Q3196	subclassOf	Q1293220
+Q11009	subclassOf	Q160034
+Q49845	subclassOf	Q7590
+Q7980877	subclassOf	Q12819913
+Q1354582	subclassOf	Q1914636
+Q42240	subclassOf	Q1914636
+Q1043452	subclassOf	Q1914636
+Q837721	subclassOf	Q1914636
+Q1043452	subclassOf	Q1914636
+Q42240	subclassOf	Q1914636
+Q187939	subclassOf	Q739302
+Q187939	subclassOf	Q739302
+Q187939	subclassOf	Q739302
+Q196751	subclassOf	Q3182649
+Q196751	subclassOf	Q3182649
+Q196751	subclassOf	Q3182649
+Q196751	subclassOf	Q3182649
+Q196751	subclassOf	Q3182649
+Q196751	subclassOf	Q3182649
+Q37756	subclassOf	Q169336
+Q37756	subclassOf	Q169336
+Q2166744	subclassOf	Q1146001
+Q38867	subclassOf	Q1146001
+Q1138737	subclassOf	Q1146001
+Q11023	subclassOf	Q28797
+Q11023	subclassOf	Q28797
+Q11023	subclassOf	Q28797
+Q11023	subclassOf	Q28797
+Q11023	subclassOf	Q28797
+Q11023	subclassOf	Q28797
+Q40607	subclassOf	Q228039
+Q296001	subclassOf	Q204794
+Q235544	subclassOf	Q36534
+Q9128	subclassOf	Q11386
+Q289	subclassOf	Q11033
+Q593289	subclassOf	Q733553
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q11650	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q11650	subclassOf	Q2695280
+Q266328	subclassOf	Q2695280
+Q365535	subclassOf	Q1454986
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q2560552	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q47146	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q15621286	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q115668308	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q115668308	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q115668308	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q11460	subclassOf	Q386724
+Q47146	subclassOf	Q386724
+Q216601	subclassOf	Q286583
+Q49848	subclassOf	Q286583
+Q37930	subclassOf	Q286583
+Q49848	subclassOf	Q286583
+Q1681365	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q28823	subclassOf	Q28877
+Q22731	subclassOf	Q214609
+Q11469	subclassOf	Q214609
+Q28823	subclassOf	Q214609
+Q28823	subclassOf	Q214609
+Q206615	subclassOf	Q214609
+Q45701	subclassOf	Q214609
+Q11469	subclassOf	Q214609
+Q28823	subclassOf	Q214609
+Q45701	subclassOf	Q214609
+Q2095	subclassOf	Q214609
+Q11469	subclassOf	Q214609
+Q11469	subclassOf	Q214609
+Q2095	subclassOf	Q214609
+Q11426	subclassOf	Q214609
+Q22731	subclassOf	Q214609
+Q206615	subclassOf	Q214609
+Q206615	subclassOf	Q214609
+Q28823	subclassOf	Q214609
+Q45701	subclassOf	Q214609
+Q11474	subclassOf	Q214609
+Q11474	subclassOf	Q214609
+Q28823	subclassOf	Q214609
+Q11456	subclassOf	Q214609
+Q181790	subclassOf	Q214609
+Q23856	subclassOf	Q11422
+Q18545	subclassOf	Q11422
+Q115633690	subclassOf	Q115922057
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q728	subclassOf	Q115921371
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q11653	subclassOf	Q116961643
+Q193811	subclassOf	Q2383811
+Q117208047	subclassOf	Q117207560
+Q4508598	subclassOf	Q23808
+Q8805	subclassOf	Q309314
+Q2393196	subclassOf	Q1207505
+Q1075	subclassOf	Q1207505
+Q173285	subclassOf	Q42848
+Q173285	subclassOf	Q42848
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q123349660	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q223557	subclassOf	Q53617407
+Q124711484	subclassOf	Q124711467
+Q588676	subclassOf	Q28935994
+Q244909	subclassOf	Q2308577
+Q2451515	subclassOf	Q196751
+Q11426	subclassOf	Q37756
+Q11650	subclassOf	Q11023
+Q11650	subclassOf	Q11023
+Q101761	subclassOf	Q266328
+Q14952	subclassOf	Q11460
+Q14952	subclassOf	Q11460
+Q14952	subclassOf	Q11460
+Q7434	subclassOf	Q11460
+Q14952	subclassOf	Q11460
+Q200266	subclassOf	Q47146
+Q17451	subclassOf	Q15621286
+Q49848	subclassOf	Q15621286
+Q17451	subclassOf	Q15621286
+Q49848	subclassOf	Q15621286
+Q1194058	subclassOf	Q1681365
+Q40089	subclassOf	Q206615
+Q11469	subclassOf	Q206615
+Q150425	subclassOf	Q206615
+Q11469	subclassOf	Q206615
+Q11469	subclassOf	Q206615
+Q11469	subclassOf	Q206615
+Q35473	subclassOf	Q206615
+Q22657	subclassOf	Q181790
+Q222405	subclassOf	Q728
+Q5322	subclassOf	Q11653
+Q5322	subclassOf	Q11653
+Q5321	subclassOf	Q11653
+Q5321	subclassOf	Q11653
+Q184754	subclassOf	Q173285
+Q264661	subclassOf	Q223557
+Q116780996	subclassOf	Q223557
+Q27096213	subclassOf	Q123349660
+Q27096213	subclassOf	Q123349660
+Q27096213	subclassOf	Q123349660
+Q27096213	subclassOf	Q123349660
+Q27096213	subclassOf	Q123349660
+Q192047	subclassOf	Q2451515
+Q192047	subclassOf	Q2451515
+Q192047	subclassOf	Q2451515
+Q192047	subclassOf	Q2451515
+Q192047	subclassOf	Q2451515
+Q23009	subclassOf	Q200266
+Q23009	subclassOf	Q200266
+Q13136	subclassOf	Q49848
+Q13136	subclassOf	Q49848
+Q13136	subclassOf	Q49848
+Q571	subclassOf	Q49848
+Q13136	subclassOf	Q49848
+Q2095	subclassOf	Q1194058
+Q2095	subclassOf	Q1194058
+Q36794	subclassOf	Q264661
+Q36794	subclassOf	Q264661
+Q6671777	subclassOf	Q27096213
+Q6671777	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q618123	subclassOf	Q27096213
+Q6671777	subclassOf	Q27096213
+Q1668335	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q9158768	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q121359	subclassOf	Q6671777
+Q1668335	subclassOf	Q6671777
+Q4421	subclassOf	Q618123
+Q271669	subclassOf	Q618123
+Q82794	subclassOf	Q618123
+Q82794	subclassOf	Q618123
+Q271669	subclassOf	Q618123
+Q82794	subclassOf	Q618123
+Q82794	subclassOf	Q618123
+Q811430	subclassOf	Q618123
+Q811430	subclassOf	Q618123
+Q811430	subclassOf	Q618123
+Q811430	subclassOf	Q618123
+Q2111778	subclassOf	Q1668335
+Q2111778	subclassOf	Q1668335
+Q376799	subclassOf	Q121359
+Q376799	subclassOf	Q121359
+Q376799	subclassOf	Q121359
+Q376799	subclassOf	Q121359
+Q1622008	subclassOf	Q9158768
+Q54050	subclassOf	Q271669
+Q23397	subclassOf	Q271669
+Q15324	subclassOf	Q82794
+Q15324	subclassOf	Q82794
+Q15324	subclassOf	Q82794
+Q532998	subclassOf	Q811430
+Q532998	subclassOf	Q811430
+Q532998	subclassOf	Q811430
+Q532998	subclassOf	Q811430
+Q38720	subclassOf	Q2111778
+Q38720	subclassOf	Q2111778
